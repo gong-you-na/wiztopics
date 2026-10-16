@@ -1,378 +1,385 @@
 {
-  "date": "2026-10-16",
-  "weekday": "금",
-  "generated_at": "2026-10-16 09:55 KST",
-  "generated_by": "예약 작업 (이번 실행은 07:00 이후 가동 — 국장 개장 직후 09:17 수치까지 포함)",
-  "headline": "미국은 옮겼고 한국은 나갔다 — 다우 +1.08% vs 코스피 -7.57%",
+  "date": "2026-10-17",
+  "weekday": "토",
+  "generated_at": "2026-10-17 07:05 KST",
+  "generated_by": "예약 작업",
+  "headline": "반등은 서울, 급락은 뉴욕 — 코스피 +2.05% vs 나스닥 -2.14%",
   "summary": [
-    "미장 10/15: 다우 +1.08%(52,178)·러셀2000 +1.37%·동일가중 S&P +1.4%인데 나스닥 +0.08%. AI에서 헬스케어(XLV +1.86%)·소재·소비로 '로테이션'. 엔비디아 -1.84%, 테슬라 -1.29%, 릴리 +3.55%.",
-    "9월 PPI +1.3% m/m(예상 +0.5%)·6.3% y/y(2022년 이후 최고)인데 10년물은 5.09%로 -10bp. 채권시장은 에너지(+10.8%) 일회성 + 필라델피아 연준 20.9(예상 28.4) 둔화로 읽음. 10월 인상 확률 ~29%.",
-    "국장 10/15: 코스피 5,554(-7.57%)·코스닥 761(-7.65%), 양 시장 서킷브레이커. 외국인 -3조 6,241억(8일 연속, 누적 -21.2조). 오늘 09:17 코스피 +1.58%(5,642) 반등이나 외국인은 -2,183억으로 9일째 매도 중.",
-    "CoreWeave: CDS 1,194.5bp 사상 최고·채권 수익률 16%를 찍고도 주가는 장중 -9.5% → 마감 +5.9%. 젠슨 황 '자본비용은 내려가는 중'. 삼성전자 3분기 잠정 영업이익 107.4조(컨센 +0.7%)에도 주가 -9.48% — 실적이 아니라 금리·신용이 가격을 정한 주.",
-    "오늘: 09:55 테슬라 로드스터 공개(와코), 12:30 워시 연준의장-게오르기에바 IMF 대담(블랙아웃 전 마지막 발언), 21:30 美 9월 수출입물가. 다음 주 10/22 새벽 테슬라 실적(D-6)·10/22 10시 금통위(3.00% 동결 컨센)."
+    "미장 10/16(금) 마감: 다우 52,002(-0.34%)·S&P500 7,659(-1.09%)·나스닥 26,140(-2.14%)·러셀2000 -1.66%. 필라델피아 반도체 11,137(-3.83%, 30종목 전부 하락), 기술 섹터 -3% 넘게 vs 에너지 +2.52%. 나스닥 주간 -4.5%, 6월 말 이후 최악. VIX 19.99(+21.45%, 장중 22.31은 6/11 이후 최고).",
+    "급락 상위 5개가 전부 AI 데이터센터·클라우드(CoreWeave -11.91%, Applied Digital -11.9%, IREN -11.3%, Cipher -10.9%, DigitalOcean -10.3%), 상승 상위 5개가 전부 에너지·방산(Equinor +4.6%, Diamondback +4.3%, Northrop +4.0%). 메모리: SK하이닉스 ADR -6.58%(주간 -18%), 마이크론 -5.63%, 씨게이트 -7.50%. 테슬라는 로드스터 공개 후 프리마켓 +5.4% → 마감 -2.71%($352.61).",
+    "국장 10/16(금): 코스피 5,668.05(+2.05%, 장중 5,809.94 +4.60%), 코스닥 794.78(+4.46%, 12:55 매수 사이드카). 외국인 코스피 현물 +3,430억(9거래일 만에 순매수, 직전 8일 누적 -21조 1,824억의 1.6%), 기관 -6,834억·개인 -4,847억. 현대차 +5.58%, 삼성바이오 +4.09%, 삼성전자 +2.62%(21만 5,500원), SK하이닉스 +0.79%(127만 2,000원), 알테오젠 +9.60%.",
+    "유가: 브렌트 12월물 $109.86(+3.7%, 5월 이후 첫 $110 터치), WTI 11월물 $101.41(+3.5%). 호르무즈·후티 공격에 우크라이나의 러시아 랴잔 정유소 타격 보도. 유라시아그룹 '확전 확률 35% → 65%'. 미국 9월 수입물가 +1.1% m/m(컨센 +0.8%)·8.1% y/y. 10년물 5.10%(+1bp), 금 $4,188.80(+0.45%), BTC $81,608(-0.51%).",
+    "워시 연준의장(방콕 IMF, 게오르기에바 대담): '회의를 미리 판단하지 않는다', 세계 동시 긴축에 '무임승차 없다', AI 투자 붐이 단기엔 물가를 올리고 경로는 '매우 울퉁불퉁'. 10월 인상 확률 15%(Yahoo Finance, CPI 직후 33%·CPI 전 24%). 10/17부터 FOMC 블랙아웃. 주말: 미·한 모두 휴장, 월요일 10/19 정상 개장. 다음 주: 10/21 새벽 넷플릭스, 10/22 05:00 테슬라(1군 Core, D-4)·메타·IBM, 10/22 10:00 금통위."
   ],
   "thermometer": [
-    {"key": "vix", "label": "VIX 공포지수", "value": 16.46, "unit": "", "pct": -2.43, "band": "보통 (장중 2주 최고 후 반락)", "asof": "10/15 뉴욕 마감"},
-    {"key": "tnx", "label": "미국 10년물", "value": 5.09, "unit": "%", "pct": -1.93, "band": "기준선 5.3% 아래 · 3주 최저", "asof": "10/15 뉴욕 마감"},
-    {"key": "dxy", "label": "달러 인덱스", "value": 102.0, "unit": "", "pct": -0.54, "band": "기준선 100 위 (전날 18개월 최고)", "asof": "10/15 뉴욕 마감"},
-    {"key": "krw", "label": "원/달러", "value": 1341.3, "unit": "원", "pct": -0.25, "band": "기준선 1,340원 부근", "asof": "10/16 09:00 서울"},
-    {"key": "gold", "label": "금 (COMEX 12월물)", "value": 4170, "unit": "$", "pct": 1.51, "band": "기준선 $4,000 위", "asof": "10/15 뉴욕 마감"}
+    {"key": "vix", "label": "VIX 공포지수", "value": 19.99, "unit": "", "pct": 21.45, "band": "경계 (장중 22.31, 6/11 이후 최고)", "asof": "10/16 뉴욕 마감"},
+    {"key": "tnx", "label": "미국 10년물", "value": 5.1, "unit": "%", "pct": 0.18, "band": "기준선 5.3% 아래 (장중 5.12%)", "asof": "10/16 뉴욕 마감"},
+    {"key": "dxy", "label": "달러 인덱스", "value": 102.0, "unit": "", "pct": -0.04, "band": "기준선 100 위 · 보합", "asof": "10/16 (WizView·Yahoo)"},
+    {"key": "krw", "label": "원/달러", "value": 1335.0, "unit": "원", "pct": -0.34, "band": "기준선 1,340원 아래 (서울 마감가 미확인 → Yahoo KRW=X)", "asof": "10/16 (WizView·Yahoo)"},
+    {"key": "gold", "label": "금 (COMEX 12월물)", "value": 4188.8, "unit": "$", "pct": 0.45, "band": "기준선 $4,000 위 · 주간 상승", "asof": "10/16 뉴욕 마감"}
   ],
   "markets": {
     "us": {
-      "asof": "10/15 (목) 뉴욕 마감",
+      "asof": "10/16 (금) 뉴욕 마감 — 주말 휴장, 다음 개장 10/19 (월) 22:30 KST (선물은 10/19 07:00 KST)",
       "indices": [
-        {"name": "다우", "close": "52,177.69", "pct": 1.08},
-        {"name": "S&P500", "close": "7,744.10", "pct": 0.33},
-        {"name": "나스닥", "close": "26,713.03", "pct": 0.08},
-        {"name": "러셀2000", "close": "2,766.79", "pct": 1.37}
+        {"name": "다우", "close": "52,002.41", "pct": -0.34},
+        {"name": "S&P500", "close": "7,659.44", "pct": -1.09},
+        {"name": "나스닥", "close": "26,140.03", "pct": -2.14},
+        {"name": "러셀2000", "close": "2,721.37", "pct": -1.66},
+        {"name": "필라델피아 반도체 (SOX)", "close": "11,137.29", "pct": -3.83}
       ],
       "movers": [
-        {"name": "CoreWeave", "pct": 5.9, "note": "장중 -9.5% → 반등 마감. CDS 1,194.5bp 사상 최고, 2031년물 수익률 16%. 주간 -22%"},
-        {"name": "나이키", "pct": 5.0, "note": "다우·S&P 최상위 (5% 이상)"},
-        {"name": "일라이 릴리", "pct": 3.55, "note": "$1,251.61, 50일선 +6.2% (2군 Steady). 헬스케어 XLV 사상 최고"},
-        {"name": "마이크론", "pct": 1.87, "note": "장중 -4.5%에서 반전"},
-        {"name": "SK하이닉스 ADR", "pct": -0.98, "note": "$146.11 (전날 -6.06%)"},
-        {"name": "테슬라", "pct": -1.29, "note": "$362.44, 50일선 +1.0%. 로드스터 공개 전"},
-        {"name": "GE버노바", "pct": -1.63, "note": "$926.44, 50일선 -4.0% (1군 Core)"},
-        {"name": "엔비디아", "pct": -1.84, "note": "$217.23"},
-        {"name": "TSMC ADR", "pct": -4.14, "note": "3분기 순이익 +68.7% 사상 최대에도 총마진 하락 반응"},
-        {"name": "필립모리스", "pct": -4.56, "note": "시총 약 $140억 증발"},
-        {"name": "로켓랩", "pct": -6.6, "note": "뉴트론 발사 2027년으로 연기"}
+        {"name": "CoreWeave", "pct": -11.91, "note": "$61.39. 주간 -25.21%. 총부채 $510억+, 2031년물 수익률 16%+, 5년 CDS 1,117bp(5년 부도확률 약 63% 내재). 전날 +5.9% 반등을 하루 만에 반납"},
+        {"name": "Applied Digital / IREN / Cipher", "pct": -11.9, "note": "-11.9% / -11.3% / -10.9%. 급락 상위 5개 전부 AI 데이터센터·클라우드 (24/7 Wall St)"},
+        {"name": "팔란티어 (3군)", "pct": -7.0, "note": "약 -7%, 시총 약 $340억 증발. 10/9 사상 최고 종가 대비 조정 구간($188.15 아래 마감 시 확정) 진입 여부"},
+        {"name": "SK하이닉스 ADR", "pct": -6.58, "note": "주간 -18%. 서울 현물은 같은 날 +0.79% → 월요일 갭 변수"},
+        {"name": "마이크론 (3군)", "pct": -5.63, "note": "주간 -13%. 씨게이트 -7.50%, 웨스턴디지털 -6.86%, 샌디스크 -6.85%"},
+        {"name": "AMD (3군) / Arm / 인텔 / 마벨 (3군)", "pct": -5.95, "note": "-5.95% / -6.94% / -5.79% / -5.56%. SOX 30종목 전부 하락, SOXX 9일 연속 하락"},
+        {"name": "모더나", "pct": -9.0, "note": "3상 데이터 앞두고 차익실현 (연초 대비 +600% 이후). 골드만 목표가 $137·중립"},
+        {"name": "메타 / 넷플릭스", "pct": -3.72, "note": "-3.72% / -2.86%. 각각 10/22 새벽·10/21 새벽 실적. 소프트웨어 바스켓 45개 중 41개 하락(시총 약 $1,300억 증발), 트윌리오 약 -10%"},
+        {"name": "테슬라 (1군 Core)", "pct": -2.71, "note": "$352.61, 50일선($359.42) -1.9%. 로드스터 공개 후 프리마켓 +5.4%였다가 하락 마감. JPMorgan 중립·목표가 $415 유지. 10/22 05:00 KST 실적(컨센 EPS $0.21, 전년 $0.37)"},
+        {"name": "GE버노바 (1군 Core)", "pct": 0.43, "note": "$930.38, 50일선 -3.5%. 10/28 장전 실적"},
+        {"name": "일라이 릴리 (2군 Steady)", "pct": 0.6, "note": "$1,259.12, 50일선 +6.7%. 헬스케어 ETF(XLV) 사상 최고 경신. 10/29 장전 실적"},
+        {"name": "JP모건 (2군 Steady)", "pct": 0.7, "note": "$337.89. 비자·마스터카드 사상 최고가"},
+        {"name": "Equinor / Diamondback / Kinder Morgan / Northrop", "pct": 4.6, "note": "+4.6% / +4.3% / +4.3% / +4.0%. 상승 상위 5개 전부 에너지·방산. 에너지 섹터 +2.52%"}
       ],
       "notes": [
-        "섹터(ETF): 헬스케어 +1.86%, 소재 +1.79%, 임의소비재 +1.71%, 금융 +1.38%, 기술 -0.65%, 에너지 -1.58%. 동일가중 S&P500 +1.4% — 지수는 보합인데 내부는 'AI → 구경제'로 자금 이동.",
-        "9월 PPI +1.3% m/m(컨센 +0.5%)·6.3% y/y(컨센 5.3~5.5%), 근원 +0.7%(컨센 +0.3%). 에너지 +10.8%. 9월 소매판매 +0.8%(컨센 +0.3%)이나 주유소 +6.4%·통제그룹 +0.1%(컨센 +0.3%). 신규 실업수당 19.9만. 필라델피아 연준 20.9(컨센 28.4, 전월 37.8), 엠파이어스테이트 25.5(컨센 10.25).",
-        "10년물 5.086%(-10bp), 2년물 4.747%. 물가 쇼크에도 금리가 내린 이유: 에너지 주도 일회성 해석 + 제조업 체감 둔화. 유가 WTI $97.97(+3.03%, EIA 재고 -860만 배럴), 브렌트 $105.92(-0.13%).",
-        "실적: BNY멜론 EPS $2.37(예상 $2.27)·PNC $5.09($4.89) 비트, 슈왑 소폭 미스, US뱅코프 연간 매출 가이던스 상향. TSMC 3분기 순이익 NT$7,631억(+68.7%), 4분기 매출 가이던스 $523~543억(컨센 $504.8억). ASML '2027~28년 장비 공급이 수요에 못 미친다'."
+        "주간: 나스닥 -4.5%(6월 말 이후 최악, 한 달 연속 상승 종료). S&P500 주간은 -1.4%~-1.95%, 다우 +0.7%~+1.5%로 매체 간 불일치 → 범위로만 표기. 기술 섹터 당일 -3% 초과, 에너지 +2.52%, 헬스케어 ETF 사상 최고. 하락 종목이 전체의 약 2/3.",
+        "AI 자금조달 분리: TheStreet의 DePorre '자체 현금으로 짓는 회사와 빌려서 짓는 회사로 갈라졌고, 차입 쪽은 금리 민감주처럼 거래된다'. 젠슨 황 'CoreWeave 재무는 매일 좋아지고 있다, 엔비디아가 떠받칠 필요 없다'(엔비디아 지분 약 10%). BofA Tal Liani는 CoreWeave 매수·$140 유지.",
+        "지표: 9월 수입물가 +1.1% m/m(컨센 +0.8%, 8월 +0.5% 수정)·8.1% y/y(8월 7.0%), 수출물가 +2.2%(컨센 +1.0%). FY2026 연방 적자 $1.99조(+$2,170억, GDP의 6.2%), 이자비용 $1.36조(+12%), 관세 환급 $1,450억(대법원 판결).",
+        "실적: 트루이스트 조정 EPS $1.16(컨센 $1.19) 미스, 채권 매각 손실 $14억. MSCI가 디지털자산 보유 기업(스트래티지 등) 지수 제외안 제시(최종 11/11, 적용 11/30 마감 후) → MSTR 프리마켓 -3%."
       ]
     },
     "kr": {
-      "asof": "10/15 (목) 마감 + 10/16 09:17 개장 직후",
+      "asof": "10/16 (금) 마감 — 주말 휴장, 다음 개장 10/19 (월) 09:00",
       "indices": [
-        {"name": "코스피 (10/15 마감)", "close": "5,554.22", "pct": -7.57, "chg": "-454.59"},
-        {"name": "코스닥 (10/15 마감)", "close": "760.82", "pct": -7.65, "chg": "-63.06"},
-        {"name": "코스피 (10/16 09:17)", "close": "5,641.71", "pct": 1.58, "chg": "+87.49"},
-        {"name": "코스닥 (10/16 09:17)", "close": "770.89", "pct": 1.32, "chg": "+10.07"}
+        {"name": "코스피", "close": "5,668.05", "pct": 2.05, "chg": "+113.83"},
+        {"name": "코스닥", "close": "794.78", "pct": 4.46, "chg": "+33.96"},
+        {"name": "코스피 장중 고가", "close": "5,809.94", "pct": 4.6, "chg": "+255.72"}
       ],
       "flows": [
-        {"who": "외국인", "amount": -36241, "note": "10/15. 8거래일 연속, 누적 -21조 1,824억. 코스피200 선물은 +3,281억"},
-        {"who": "기관", "amount": 16930, "note": "10/15"},
-        {"who": "개인", "amount": 12886, "note": "10/15"},
-        {"who": "외국인 (10/16 09:17)", "amount": -2183, "note": "반등장에서도 9일째 매도 중. 개인 +1,202억, 기관 +659억"}
+        {"who": "외국인", "amount": 3430, "note": "9거래일 만에 순매수 전환. 직전 8일 누적 -21조 1,824억의 1.6%. 아시아경제는 +3,521억으로 집계(시점 차)"},
+        {"who": "기관", "amount": -6834, "note": "헤럴드경제. 아시아경제 -8,130억"},
+        {"who": "개인", "amount": -4847, "note": "헤럴드경제. 아시아경제 -4,420억"},
+        {"who": "외국인 (코스닥)", "amount": -903, "note": "코스닥은 기관 +1,684억이 반등 주도, 개인 -915억"}
       ],
-      "flows_unit": "억원 (코스피 현물)",
+      "flows_unit": "억원 (코스피 현물, 헤럴드경제 마감 집계)",
       "movers": [
-        {"name": "삼성전기 (10/15)", "pct": -15.36, "note": ""},
-        {"name": "SK하이닉스 (10/15)", "pct": -11.06, "note": "ADR은 -6.06% → 서울 낙폭이 5%p 더 큼"},
-        {"name": "SK스퀘어 (10/15)", "pct": -10.21, "note": ""},
-        {"name": "삼성전자 (10/15)", "pct": -9.48, "note": "3분기 잠정 영업이익 107.4조(컨센 106.6조) 발표 후에도 하락"},
-        {"name": "삼성바이오로직스 (10/15)", "pct": 5.5, "note": "시총 10위 중 유일 상승 — 미국 XLV 사상 최고와 같은 방향"},
-        {"name": "삼성생명 (10/16 09:17)", "pct": 4.82, "note": "KB금융 +4.53% — 금융주 반등 주도"},
-        {"name": "삼성전자 (10/16 09:17)", "pct": 1.9, "note": "21만 4,000원"},
-        {"name": "SK하이닉스 (10/16 09:17)", "pct": 0.63, "note": "127만 원. 장초 129만 8,000원에서 밀림"},
-        {"name": "알테오젠 (10/16 09:17)", "pct": 3.98, "note": "코스닥 바이오 반등"}
+        {"name": "알테오젠 (코스닥)", "pct": 9.6, "note": "23만 4,500원. 코스닥 제약 +5.72%, 의료정밀 +6.95%"},
+        {"name": "현대차", "pct": 5.58, "note": "31만 2,500원. 운수장비 +4.21%"},
+        {"name": "삼성바이오로직스", "pct": 4.09, "note": "129만 1,000원. 10/15에도 시총 10위 중 유일 상승 → 이틀 연속 미국 헬스케어 사상 최고와 동행"},
+        {"name": "삼성생명", "pct": 3.95, "note": "23만 7,000원. KB금융 +2.11%, 신한지주 -0.85%"},
+        {"name": "삼성전자", "pct": 2.62, "note": "21만 5,500원. 미국 금요일 메모리 급락(마이크론 -5.63%) 이전 가격"},
+        {"name": "SK스퀘어", "pct": 2.48, "note": "78만 5,000원"},
+        {"name": "SK하이닉스", "pct": 0.79, "note": "127만 2,000원. 장초 129만 8,000원에서 밀림. 같은 날 ADR -6.58% → 괴리 7.4%p"},
+        {"name": "삼성SDI", "pct": -1.85, "note": "LG에너지솔루션 +0.12%, HD현대중공업 -0.28%"}
       ],
       "notes": [
-        "10/15 장중 낙폭 8% 초과로 코스피·코스닥 서킷브레이커 1단계(20분 정지), 매도 사이드카 동시 발동. 5,600 아래 마감은 7/30 이후 처음. 6/19 고점 9,385 대비 -40.8%.",
-        "코스닥 시총 10위 전부 하락: 원익IPS -15.47%, 주성엔지니어링 -14.97%, 심텍 -11.91%, 리노공업 -11.58%. 원/달러 1,344.6(+6.3원) → 10/16 아침 1,341.3.",
-        "10/16 09:17 상승 698 / 하락 157 종목. 대신증권(10/15): 5,300 하회 가능성 제한적이나 고금리·중동·고유가로 강한 반등도 어렵다.",
-        "삼성전자 3분기 잠정(10/8): 매출 195조(컨센 200.6조, -2.8%)·영업이익 107.4조(컨센 106.6조, +0.7%). 이익은 맞췄는데 주가는 발표 후 1주간 급락 — 가격 결정 변수가 실적에서 금리·신용으로 옮겨간 증거."
+        "코스피 업종: 의료정밀 +6.05%, 제약 +4.65%, 유통 +4.28%, 운수장비 +4.21%, 증권 +4.16%, 운수창고 -0.45%(유일 하락 — 유가 $110 영향). 코스닥 12:55 매수 사이드카(장중 +4.9%).",
+        "7거래일(10/6~10/15) 누적 -1,449.52pt(-21%) 뒤 첫 반등. 신용거래융자 잔고 34조 2,529억(10/13, 금투협), 반대매매 593.5억(10/13, 7/31 1,220억 이후 최대). 연합뉴스TV '연이틀 800억대 강제매도'는 원자료 미확인.",
+        "삼프로TV 마감시황(10/16): 외국인 순매수 규모가 작고 반도체 주도력이 약해 '2% 반등에도 웃지 못한' 날로 평가. 신한 강진혁 '회복엔 AI 불확실성 완화와 외국인 대량 매도 종료가 필요', 미래에셋 김주연 '반등 폭이 전날 낙폭 대비 작다'.",
+        "주말 변수: 미국 금요일 SOX -3.83%·SK하이닉스 ADR -6.58%는 서울 마감 후 발생 → 월요일 시초가에 미반영. 원/달러는 Yahoo 기준 1,335원(서울 마감가 기사 미확인)."
       ]
     },
     "futures": {
-      "asof": "10/16 07:30~09:40 KST",
+      "asof": "주말 휴장 — 10/16 (금) 뉴욕 마감 기준. 미국 선물 재개 10/19 (월) 07:00 KST",
       "items": [
-        {"name": "S&P500 선물", "pct": 0.03, "note": "7,700대"},
-        {"name": "나스닥100 선물", "pct": -0.08, "note": "-65pt 전후"},
-        {"name": "다우 선물", "pct": 0.1, "note": "52,000대 소폭 상승 (수치 확인 불가 → 방향만)"},
-        {"name": "닛케이225 선물", "pct": 1.11, "value": "65,520", "note": "전날 현물 -4.9%(64,426)"},
-        {"name": "항셍 선물", "pct": 0.87, "value": "24,280"},
-        {"name": "WTI", "value": "$97.97", "pct": 3.03, "note": "EIA 재고 -860만 배럴, 2월 이후 최대 감소"},
-        {"name": "브렌트유", "value": "$105.92", "pct": -0.13, "note": "호르무즈 UAE 화물선 2척 침몰 vs IEA 비축유 1억 배럴 방출"},
-        {"name": "금 (12월물)", "value": "$4,170", "pct": 1.51},
-        {"name": "비트코인", "value": "$82,273", "pct": 0.72, "note": "80K~87K 박스 (Coin Bureau)"},
-        {"name": "이더리움", "value": "$2,452", "pct": 0.53, "note": "10/15 17:17 UTC 5분 스냅샷 (Alpha by Mossland)"}
+        {"name": "S&P500 선물", "pct": null, "value": "휴장", "note": "일요일 18:00 ET(월 07:00 KST) 재개"},
+        {"name": "나스닥100 선물", "pct": null, "value": "휴장", "note": "현물 나스닥100 29,213(-2.32%) 마감"},
+        {"name": "WTI 11월물", "pct": 3.5, "value": "$101.41", "note": "마감. 2주 연속 주간 상승, 연초 대비 +75% (Rigzone)"},
+        {"name": "브렌트 12월물", "pct": 3.7, "value": "$109.86", "note": "장중 $110 — 5월 이후 처음. 미국 SPR 최대 1,700만 배럴 방출 제안"},
+        {"name": "금 12월물", "pct": 0.45, "value": "$4,188.80", "note": "은 $57.92(+1.35%, 장초)"},
+        {"name": "비트코인", "pct": -0.51, "value": "$81,608", "note": "주간 2주 연속 하락. Coin Bureau '80K~87K 박스'. 10/17 06시대 $81,685 (Alpha by Mossland)"},
+        {"name": "이더리움", "pct": null, "value": "확인 불가", "note": "신뢰 가능한 당일 종가 출처 없음"},
+        {"name": "닛케이225", "pct": null, "value": "확인 불가", "note": "10/16 현물 마감 수치 미확인 (10/15 -4.9%, 64,426)"}
       ],
-      "premarket": "테슬라 야간 $362.85(+0.11%, 20:30 ET) — 로드스터 공개(09:55 KST) 반응은 미반영. 삼성전자·SK하이닉스 국내 프리마켓 3%대 상승 출발 후 정규장 +1.9%·+0.6%로 축소"
+      "premarket": "주말이라 프리마켓 없음. 월요일 관전: SK하이닉스 ADR -6.58% vs 서울 +0.79% 괴리(7.4%p)의 월요일 시초가 반영, 브렌트 $110 유지 여부, 외국인 2일 연속 순매수 여부"
     }
   },
   "macro": {
-    "fed": "9월 0.25%p 인상(3.75~4.00%) 후 10/28 FOMC 인상 확률: CPI 전 22% → CPI 직후 50% → 10/14 밤 31.6% → PPI 발표 후 10/15 09:47 ET 29.3%(동결 70.7%). PPI가 예상의 2배였는데 확률이 내린 이유는 에너지 일회성 + 윌리엄스 '추가 인상 필요 근거 아직 없다'. 데일리 '추가 조정 필요 가능성이 더 크다'. 오늘 12:30 KST 워시 의장이 방콕 IMF 총회에서 게오르기에바 총재와 대담 — 10/17부터 블랙아웃이라 회의 전 마지막 공개 발언. 워시는 '의장이 금리 방향을 미리 시사하지 않는' 소통 방식을 선언한 상태.",
-    "geo": "호르무즈: UAE 화물선 2척 침몰(이란 '기뢰 충돌' 발표), 개전 후 최고 수준 공격(JTBC). 트럼프는 11/3 중간선거 전 이란 공격 않겠다 발언, CNN은 '최대 비핵 폭탄' 검토 보도. 유가는 WTI(+3%, 재고 급감)와 브렌트(-0.1%, 비축유 방출)가 엇갈림. IMF GFSR: AI 순환금융 14건 = 지분 $3,000억 + 부채 $6,500억 ↔ 미래 매출 약정 $1.4조."
+    "fed": "워시 의장은 10/16 방콕 IMF 총회에서 게오르기에바 총재와 대담하며 10/28 결정에 대해 '회의를 미리 판단하지 않는다'고만 말했고, 9월 이후 세계가 연준 예상에 '대체로 부합'했다고 평가. ECB 2회를 포함한 세계 금리 인상을 '동시 긴축(synchronous tightening)'이라 부르며 '무임승차는 없다'고 발언. AI는 '내 생애 가장 중대한 변화'이나 투자 붐이 단기엔 수요를 밀어 물가를 올리고, 경로는 '매우 울퉁불퉁'할 것이라고 함. 10월 인상 확률: CPI 전 24% → CPI 직후 33~50%(매체별) → 10/15 29.3% → 10/16 마감 약 15%(Yahoo Finance; Euronews/AP는 약 30%로 집계, 12월 인상은 약 90%). BofA는 여전히 10월 인상 전망(근원 CPI 바스켓 55%가 3개월 연율 2.5% 초과). 10/17부터 블랙아웃 — 10/29 새벽 3시 결정까지 연준 공개 발언 없음. 9월 CPI 3.7%·근원 2.6%.",
+    "geo": "호르무즈: 후티의 사우디 공군기지·공항·석유시설 미사일·드론 공격 지속, UAE 화물선 2척 침몰(10/15). 호르무즈 원유 통과량은 지난주 1억 배럴 초과로 전쟁 전 수준 회복(Rigzone). 트럼프는 '피카액스 마운틴(이란 핵시설) 타격 가능성'을 열어두면서 11/3 중간선거 전엔 대형 폭격 안 한다는 입장. 유라시아그룹 확전 확률 35% → 65%. 우크라이나가 러시아 랴잔 정유소 타격 보도 → 러시아 디젤 방출 차질, 미 의회는 러시아 디젤 거래 허가 취소 법안 발의. 미국 SPR 최대 1,700만 배럴 방출 제안 + 그림자 선단 제재 완화 검토. 국내 영향: 9월 수입물가(미국) 8.1% y/y, 코스피 운수창고 유일 하락."
   },
   "events": [
-    {"kst": "10/16 (금) 09:55", "what": "테슬라 로드스터 공개 (텍사스 와코 SpaceX 시설, X 생중계) — 1군 Core", "tag": "실적"},
-    {"kst": "10/16 (금) 12:30", "what": "워시 연준의장 × IMF 게오르기에바 총재 대담 (방콕) — 블랙아웃 전 마지막 발언", "tag": "연준"},
-    {"kst": "10/16 (금) 21:30", "what": "美 9월 수출입물가지수 · 22:15 산업생산·설비가동률", "tag": "지표"},
-    {"kst": "10/22 (수) 05:00", "what": "테슬라 3분기 실적 (1군 Core, 장후) — 컨센 EPS $0.21, 전년 $0.37", "tag": "실적"},
-    {"kst": "10/22 (수) 10:00", "what": "한국은행 금통위 — 현재 3.00%, 컨센서스 동결", "tag": "지표"},
+    {"kst": "10/17 (토) ~ 10/18 (일)", "what": "미국·한국 주말 휴장. 연준 블랙아웃 시작(10/17). 중동 주말 이벤트가 월요일 유가·선물에 선반영", "tag": "휴장"},
+    {"kst": "10/19 (월) 07:00", "what": "미국 지수 선물 재개 — 금요일 SOX -3.83%·브렌트 $110 반영 첫 가격", "tag": "지표"},
+    {"kst": "10/19 (월) 09:00", "what": "코스피 개장 — SK하이닉스 ADR -6.58% vs 서울 +0.79% 괴리 반영 여부", "tag": "지표"},
+    {"kst": "10/20 (화) 저녁", "what": "GE에어로스페이스(컨센 EPS $2.01)·GM($3.52)·3M·RTX 장전 실적", "tag": "실적"},
+    {"kst": "10/21 (수) 05:00", "what": "넷플릭스 3분기 실적 (장후, 컨센 EPS $0.82, 전년 $0.59)", "tag": "실적"},
+    {"kst": "10/22 (수) 05:00", "what": "테슬라 3분기 실적 (1군 Core, 장후 · 콜 05:30 ET) — 컨센 EPS $0.21, 전년 $0.37. 같은 날 메타($6.35, 전년 $7.25)·IBM($2.87)·램리서치·TI", "tag": "실적"},
+    {"kst": "10/22 (수) 10:00", "what": "한국은행 금통위 — 현재 3.00%, 컨센서스 동결. 유가 $110·수입물가 반영 여부", "tag": "지표"},
     {"kst": "10/23 (금) 23:00", "what": "미시간대 10월 소비자심리 확정치 (예비 46.3, 1년 기대인플레 4.7%)", "tag": "지표"},
     {"kst": "10/28 (수) 20:00", "what": "GE버노바 3분기 실적 (1군 Core, 장전) — 컨센 EPS $4.03", "tag": "실적"},
-    {"kst": "10/29 (목) 03:00", "what": "10월 FOMC 기준금리 결정 (점도표 없음) — 인상 확률 29.3%", "tag": "연준"},
-    {"kst": "10/29 (목) 20:00", "what": "일라이 릴리 3분기 실적 (2군 Steady, 장전) — 컨센 EPS $6.40", "tag": "실적"},
+    {"kst": "10/29 (목) 03:00", "what": "10월 FOMC 기준금리 결정 (점도표 없음) — 인상 확률 15~30% (매체별)", "tag": "연준"},
+    {"kst": "10/29 (목) 20:00", "what": "일라이 릴리 3분기 실적 (2군 Steady, 장전) — 컨센 EPS $5.38 (WizView earnings.json)", "tag": "실적"},
     {"kst": "10/29 (목) 21:30", "what": "美 3분기 GDP 속보치 (GDPNow 3.6%) · 9월 PCE (근원 추정 +0.32~0.34%)", "tag": "지표"}
   ],
   "checks": [
-    "12:30 KST 워시 대담 — '2차 효과' 단어가 나오면 10월 인상 확률(29.3%)이 다시 40%대로 튀는지 CME FedWatch 확인",
-    "외국인 코스피 현물 순매수 전환 여부 — 09:17 -2,183억으로 9일째 매도. 마감 기준으로 양(+)이 찍히는 첫날이 '엑소더스 → 로테이션' 전환 신호",
-    "테슬라 로드스터 공개(09:55 KST) 후 야간·프리마켓 — 과거 공개 행사 뒤 주가 사이버트럭 -6%·사이버캡 -8.3%·9/4 -5.92% 패턴 반복 여부"
+    "월요일 09:00 SK하이닉스·삼성전자 시초가 — 금요일 SK하이닉스 ADR -6.58%(주간 -18%)·마이크론 -5.63%·SOX -3.83%가 서울 마감 뒤 발생. ADR-서울 괴리 7.4%p가 갭으로 메워지는지",
+    "외국인 코스피 현물 순매수 2일 연속 여부 — 10/16 +3,430억은 8일 누적 -21.2조의 1.6%. 삼프로TV·신한·미래에셋 모두 '규모가 작다'고 본 상태",
+    "일요일 밤 미국 선물·유가 — 브렌트 $110·WTI $100 위가 유지되면 운수창고(10/16 유일 하락 -0.45%)·항공 vs 정유·조선 상대 등락, 그리고 10/22 금통위 성명에 '유가' 문구가 들어가는지"
   ],
   "youtube": {
-    "note": "유튜브 페이지 접근 차단으로 조회수·좋아요는 확인 불가. Alpha by Mossland 집계(제목·길이·업로드 상대시각, 10/16 06:02~06:19 KST 갱신)와 뉴스 노출로 각도 분류. 해외 개인 유튜버(Meet Kevin 등)는 당일 영상 확인 불가 → 매체 기사로 대체.",
+    "note": "유튜브 페이지 접근 차단으로 조회수·좋아요 확인 불가 → null. 국내는 Alpha by Mossland 집계(코스피 페이지 10/17 06:19 KST, HBM 06:15, 나스닥·S&P·삼성하이닉스 페이지는 10/15~16 갱신분)와 뉴스 노출로 각도 분류. 해외 개인 유튜버(Meet Kevin·Joseph Carlson 등) 당일 영상은 검색에 잡히지 않아 매체 기사로 대체. Reddit 당일 스레드 확인 불가.",
     "domestic": [
-      {"channel": "위즈덤투스 (본 채널)", "title": "\"CPI만 보고 있었다면?\" 반도체·AI섹터 급락, 시장이 진짜 두려워한 건 따로 있었다", "when": "10/15", "minutes": 33, "views": null, "likes": null, "angle": "AI 부채·신용(CoreWeave)", "url": "https://alpha.moss.land/asset/nasdaq"},
-      {"channel": "위즈덤투스 (본 채널)", "title": "[특별 라이브] 미국 시장 하락의 '진짜 원인'은? + 멘탈 케어 | 목요 멘탈 케어 라이브", "when": "10/15", "minutes": 64, "views": null, "likes": null, "angle": "AI 부채·신용(CoreWeave) · 투자 심리", "url": "https://alpha.moss.land/asset/nasdaq"},
-      {"channel": "삼프로TV", "title": "삼전닉스 급락, 반전의 열쇠...외국인 수급에 달렸다 | 송종호 테크인사이트인베스트먼트 대표 [더블 업]", "when": "10/15", "minutes": 26, "views": null, "likes": null, "angle": "외국인 수급 · 펀더멘털 유지론", "url": "https://alpha.moss.land/asset/hbm"},
-      {"channel": "김작가TV", "title": "200조 넘게 주식 던진 외국인, '이래서' 한국 증시 안 돌아온다 (목대균 대표)", "when": "10/15", "minutes": 35, "views": null, "likes": null, "angle": "외국인 수급 · 메모리 사이클 · 금리", "url": "https://alpha.moss.land/asset/hbm"},
-      {"channel": "박종훈의 지식한방", "title": "AI 큰손들의 경고, 이제는 반도체보다 돈이 문제다", "when": "10/15", "minutes": 31, "views": null, "likes": null, "angle": "AI 부채·신용 · 메모리 호황 지속성", "url": "https://alpha.moss.land/asset/hbm"},
-      {"channel": "오선의 미국 증시 라이브", "title": "【미국 증시 오늘의 요약】 CPI 쇼크 + 코어위브 채권 부실 신호…AI 트레이드 흔들린 하루 - 2026/10/14", "when": "10/15", "minutes": 3, "views": null, "likes": null, "angle": "미국 마감 요약", "url": "https://alpha.moss.land/asset/nasdaq"},
-      {"channel": "연합뉴스TV", "title": "[글로벌증시] 뉴욕증시 일제히 하락…물가충격에 나스닥 1.9%↓", "when": "10/15", "minutes": 5, "views": null, "likes": null, "angle": "미국 CPI·연준", "url": "https://alpha.moss.land/asset/nasdaq"},
-      {"channel": "공병호TV", "title": "[투자] 폭발성장, 토큰화! / 결국 24/7 체제로", "when": "10/15", "minutes": 7, "views": null, "likes": null, "angle": "토큰화·24시간 거래 (비관련)", "url": "https://alpha.moss.land/asset/sp500"},
-      {"channel": "YTN", "title": "이번엔 다르다더니...심상치않은 반도체 슈퍼사이클 전망 [이슈톺]", "when": "10/14", "minutes": 7, "views": null, "likes": null, "angle": "반도체 사이클 조기 종료론", "url": "https://alpha.moss.land/asset/hbm"},
-      {"channel": "신사임당", "title": "금값 뜻밖의 매수세 터졌다 곧 상상도 못할 일 벌어진다 (정우영 대표 / 증시임당)", "when": "10/13", "minutes": 41, "views": null, "likes": null, "angle": "금·안전자산", "url": "https://alpha.moss.land/asset/gold"}
+      {"channel": "삼프로TV", "title": "[10월 16일 마감시황] 코스피 2% 반등에도 웃지 못한 이유…외국인 순매수 전환, 아직 안심하기 이르다 [클로징벨 라이브]", "when": "10/16", "minutes": 72, "views": null, "likes": null, "angle": "외국인 수급 전환(소규모) · 반도체 주도력", "url": "https://alpha.moss.land/asset/kospi"},
+      {"channel": "연합뉴스TV", "title": "\"빚내서 샀다가…\" 주가 급락 '부메랑'…연이틀 800억대 '강제매도' 비명 [이슈ZIP]", "when": "10/16", "minutes": 33, "views": null, "likes": null, "angle": "신용·반대매매(빚투)", "url": "https://alpha.moss.land/asset/kospi"},
+      {"channel": "연합뉴스TV", "title": "[속보] '8거래일만 반등' 돌아온 외인에 코스피 5,600선 회복…\"추세 상승엔 신중\"", "when": "10/16", "minutes": 85, "views": null, "likes": null, "angle": "외국인 수급 전환(소규모)", "url": "https://alpha.moss.land/asset/kospi"},
+      {"channel": "연합뉴스TV", "title": "[퇴근길머니] 20대 개미, 가장 많이 떠났다…\"SK하이닉스 가고 싶어요\"", "when": "10/16", "minutes": 5, "views": null, "likes": null, "angle": "개인 이탈 · 투자 심리", "url": "https://alpha.moss.land/asset/kospi"},
+      {"channel": "SBS 뉴스", "title": "\"삼전닉스 몰려들 때 금융당국 뭐했냐!\" 코스피 폭락 전하던 미국 앵커 방송 중 '분노'", "when": "10/16", "minutes": 16, "views": null, "likes": null, "angle": "공포·책임 프레임", "url": "https://alpha.moss.land/asset/kospi"},
+      {"channel": "뉴스TVCHOSUN", "title": "'검은 목요일' 패닉, 코스피 주식시장이 7%대 급락에 국민 피눈물 나고 있는데... '레버리지 ETF 주범' 김용범이 눈치 없이 올린 글?", "when": "10/16", "minutes": 31, "views": null, "likes": null, "angle": "공포·책임 프레임(정치)", "url": "https://alpha.moss.land/asset/kospi"},
+      {"channel": "YTN", "title": "'삼전닉스' 역대급이라면서...코스피는 왜 계속 주저앉을까 [자막뉴스]", "when": "10/16", "minutes": 3, "views": null, "likes": null, "angle": "AI 신용(네오클라우드) · 미국 금리 · 중간선거", "url": "https://alpha.moss.land/asset/hbm"},
+      {"channel": "삼프로TV", "title": "신용융자 늘고 받아줄 수급은 줄었다…한국 증시 급락을 더 키운 구조 [주린이 구조대]", "when": "10/15", "minutes": 41, "views": null, "likes": null, "angle": "신용·반대매매(빚투) · 수급 구조", "url": "https://alpha.moss.land/asset/entity-1su7l3g"},
+      {"channel": "신사임당", "title": "\"내일 진짜 폭탄 터질 겁니다\" 삼성전자, SK하이닉스 물린 개미들 잠 다 잤다 | 굿모닝임당", "when": "10/15", "minutes": 41, "views": null, "likes": null, "angle": "공포·책임 프레임 · 대안 업종(배터리·해운·정유)", "url": "https://alpha.moss.land/asset/entity-1su7l3g"},
+      {"channel": "신사임당", "title": "\"내일 아침 무서운 일 터진다\" 오늘 밤 삼전 개미들 잠 다 잤습니다 (이승조 / 1부)", "when": "10/15", "minutes": 18, "views": null, "likes": null, "angle": "공포·책임 프레임 · 연말 5,800~7,200 반등론", "url": "https://alpha.moss.land/asset/entity-1su7l3g"},
+      {"channel": "김작가TV", "title": "[긴급 증시 진단] 삼성전자 -6.5%, SK하이닉스 -8.4% 폭락, 지금 반드시 '이렇게' 하세요 (이정윤 세무사)", "when": "10/14", "minutes": 18, "views": null, "likes": null, "angle": "공포·명령형 프레임 · 중국 메모리(CXMT)", "url": "https://alpha.moss.land/asset/entity-1su7l3g"},
+      {"channel": "위즈덤투스 (본 채널)", "title": "\"CPI만 보고 있었다면?\" 반도체·AI섹터 급락, 시장이 진짜 두려워한 건 따로 있었다", "when": "10/15", "minutes": 33, "views": null, "likes": null, "angle": "AI 신용·부채(CoreWeave)", "url": "https://alpha.moss.land/asset/nasdaq"}
     ],
     "intl": [
-      {"channel": "Market Index / Reuters", "title": "Investors rotate out of AI stocks; equal-weight S&P 500 +1.4%, Nvidia -1.8%", "when": "10/16", "views": null, "angle": "미국 로테이션(섹터 순환)", "url": "https://www.marketindex.com.au/news/asx-200-live-today-friday-16th-october"},
-      {"channel": "ts2.tech", "title": "Dow Jumps 1.1%, Russell 2000 Rises 1.4% as Broad Rotation Beats Tech", "when": "10/15", "views": null, "angle": "미국 로테이션(섹터 순환)", "url": "https://ts2.tech/en/dow-jumps-1-1-russell-2000-rises-1-4-as-broad-rotation-beats-tech/"},
-      {"channel": "BNN Bloomberg", "title": "CoreWeave shares, bonds slide further as AI debt fears mount", "when": "10/15", "views": null, "angle": "AI 부채·신용(CoreWeave)", "url": "https://www.bnnbloomberg.ca/investing/2026/10/15/coreweave-shares-bonds-slide-further-as-ai-debt-fears-mount/"},
-      {"channel": "TradingKey", "title": "CoreWeave Shares Rebound After 9.5% Drop as Jensen Huang Says Financial Health Is Improving", "when": "10/15", "views": null, "angle": "AI 부채·신용(CoreWeave) 반전", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262219232-coreweave-stock-credit-risk-cds-bond-yield-deutsche-bank-buy-nvidia-jensen-huang-tradingkey"},
-      {"channel": "IBTimes", "title": "The PPI Was Much Higher Than Expected. Odds of a Fed Rate Hike Edged Down Anyway.", "when": "10/15", "views": null, "angle": "PPI·연준 인상 확률 역설", "url": "https://ibtimes.com/ppi-was-much-higher-expected-odds-fed-rate-hike-edged-down-anyway-3808612"},
-      {"channel": "Seoul Economic Daily (EN)", "title": "U.S. Rate Path Clouded as Markets Await Warsh's Oct. 16 Remarks", "when": "10/16", "views": null, "angle": "워시 대담·블랙아웃", "url": "https://en.sedaily.com/international/2026/10/16/us-rate-path-clouded-as-markets-await-warshs-oct-16-remarks"},
-      {"channel": "Yahoo Finance", "title": "Tesla's Roadster event is on tonight. Here's what to expect.", "when": "10/15", "views": null, "angle": "테슬라 로드스터·실적", "url": "https://finance.yahoo.com/markets/stocks/article/teslas-roadster-event-is-on-tonight-heres-what-to-expect-000407218.html"}
+      {"channel": "TheStreet", "title": "Stock Market Today (Oct. 16): AI 'bubble' worries mount as Nasdaq, Russell 2000 sink on tech declines", "when": "10/16", "views": null, "angle": "AI 자금조달 분리(자체현금 vs 차입)", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-16-2026"},
+      {"channel": "Yahoo Finance", "title": "Stock market today: Dow, S&P 500, Nasdaq sink as tech sell-off caps volatile week", "when": "10/16", "views": null, "angle": "주간 결산 · 10월 인상 확률 15% · 테슬라 로드스터", "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html"},
+      {"channel": "TradingKey", "title": "US Stocks Close: Nasdaq Drops Over 2%, Chip Stocks Fall Broadly, Micron Falls Over 5%, CoreWeave Plunges Nearly 12%", "when": "10/16", "views": null, "angle": "반도체 전면 하락 · CoreWeave CDS 1,117bp", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"},
+      {"channel": "CNBC", "title": "Fed's Warsh withholds rate signal, praises recent global tightening", "when": "10/16", "views": null, "angle": "연준·워시(동시 긴축)", "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html"},
+      {"channel": "Euronews / AP", "title": "Fed's Warsh sees AI boosting productivity but gives no signal on next rate hike", "when": "10/16", "views": null, "angle": "연준·워시(AI 물가 압력)", "url": "https://www.euronews.com/2026/10/16/feds-warsh-sees-ai-boosting-productivity-but-gives-no-signal-on-next-rate-hike"},
+      {"channel": "Rigzone", "title": "Brent Oil Hits $110 as Supply Risks Mount", "when": "10/16", "views": null, "angle": "유가·호르무즈 · 에너지 로테이션", "url": "https://www.rigzone.com/news/brent_oil_hits_110_as_supply_risks_mount-16-oct-2026-184870-article"},
+      {"channel": "24/7 Wall St", "title": "The Nasdaq's 2.3% drop was more than four times the Dow's", "when": "10/16", "views": null, "angle": "상위 5 에너지·방산 vs 하위 5 AI 데이터센터", "url": "https://247wallst.com/cards/the-nasdaq-s-2-3-drop-was-more-than-four-times-the-dow-s-lo-gspc-market-bell-01m53502se09wdrvtj5fkd69w4"},
+      {"channel": "Coin Bureau (YouTube)", "title": "Bitcoin Just WRECKED Bulls & Bears", "when": "10/16", "views": null, "angle": "BTC 80K~87K 박스 · FOMC 대기", "url": "https://alpha.moss.land/asset/btc"},
+      {"channel": "a16z (YouTube)", "title": "Former Intel CEO: Why This is the Best Time to Build Hardware", "when": "10/10", "views": null, "angle": "AI 병목 = 제조·메모리·전력", "url": "https://alpha.moss.land/asset/hbm"}
     ],
-    "frame_gap": "국내 10/15 영상 공통 프레임은 '외국인 수급 + AI 돈 문제'(삼프로·김작가·박종훈·본 채널). 해외는 '로테이션(AI→구경제)'과 'PPI 쇼크에도 인상 확률 하락'이 헤드라인. 미국 돈은 '옮기고' 한국 돈은 '나간' 구조 차이를 한 화면에 놓은 국내 영상은 0편, PPI-금리 역설을 다룬 국내 영상도 0편."
+    "frame_gap": "국내 10/16 업로드 8편 중 7편이 '외국인 돌아왔나 · 반대매매 · 누구 탓(레버리지 ETF·금융당국)' 수급·책임 프레임이고 전부 뉴욕 마감 전 업로드 → 금요일 밤 SOX -3.83%·SK하이닉스 ADR -6.58%·'AI 차입 기업 5개 -10%'를 월요일 국장과 연결한 영상 0편. 미국 매체는 반대로 '자체 현금 vs 차입' 분리에 집중하고 한국은 언급 없음."
   },
-  "angles": ["외국인 수급·엑소더스", "미국 로테이션(섹터 순환)", "AI 부채·신용(CoreWeave)", "PPI·연준 인상 확률", "실적 vs 주가 괴리", "헬스케어·바이오 피난처", "테슬라 로드스터·실적", "투자철학·신용 사이클"],
+  "angles": [
+    "외국인 수급 전환(소규모)",
+    "신용·반대매매(빚투)",
+    "AI 자금조달 분리(자체현금 vs 차입)",
+    "에너지·방산 로테이션 vs AI 데이터센터",
+    "유가·호르무즈 $110",
+    "연준·워시(동시 긴축 · 인상 확률)",
+    "테슬라 로드스터 → 실적 D-4",
+    "공포·책임 프레임(폭탄·주범·반드시)"
+  ],
   "coverage_matrix": [
-    {"channel": "위즈덤투스 (본 채널)", "region": "KR", "covered": ["AI 부채·신용(CoreWeave)", "PPI·연준 인상 확률"]},
-    {"channel": "삼프로TV", "region": "KR", "covered": ["외국인 수급·엑소더스", "실적 vs 주가 괴리"]},
-    {"channel": "김작가TV", "region": "KR", "covered": ["외국인 수급·엑소더스"]},
-    {"channel": "박종훈의 지식한방", "region": "KR", "covered": ["AI 부채·신용(CoreWeave)"]},
-    {"channel": "연합뉴스TV·YTN", "region": "KR", "covered": ["PPI·연준 인상 확률"]},
-    {"channel": "Reuters·Market Index·ts2", "region": "US", "covered": ["미국 로테이션(섹터 순환)", "AI 부채·신용(CoreWeave)"]},
-    {"channel": "BNN Bloomberg·TradingKey", "region": "US", "covered": ["AI 부채·신용(CoreWeave)"]},
-    {"channel": "IBTimes·서울경제(EN)", "region": "US", "covered": ["PPI·연준 인상 확률"]},
-    {"channel": "Yahoo Finance·KuCoin", "region": "US", "covered": ["테슬라 로드스터·실적"]}
+    {"channel": "삼프로TV", "region": "KR", "covered": ["외국인 수급 전환(소규모)", "신용·반대매매(빚투)"]},
+    {"channel": "연합뉴스TV", "region": "KR", "covered": ["외국인 수급 전환(소규모)", "신용·반대매매(빚투)"]},
+    {"channel": "신사임당", "region": "KR", "covered": ["공포·책임 프레임(폭탄·주범·반드시)", "외국인 수급 전환(소규모)"]},
+    {"channel": "김작가TV", "region": "KR", "covered": ["공포·책임 프레임(폭탄·주범·반드시)"]},
+    {"channel": "SBS 뉴스 · TV조선", "region": "KR", "covered": ["공포·책임 프레임(폭탄·주범·반드시)"]},
+    {"channel": "YTN", "region": "KR", "covered": ["AI 자금조달 분리(자체현금 vs 차입)", "연준·워시(동시 긴축 · 인상 확률)"]},
+    {"channel": "위즈덤투스 (본 채널)", "region": "KR", "covered": ["AI 자금조달 분리(자체현금 vs 차입)"]},
+    {"channel": "TheStreet", "region": "US", "covered": ["AI 자금조달 분리(자체현금 vs 차입)", "에너지·방산 로테이션 vs AI 데이터센터"]},
+    {"channel": "Yahoo Finance", "region": "US", "covered": ["연준·워시(동시 긴축 · 인상 확률)", "테슬라 로드스터 → 실적 D-4", "AI 자금조달 분리(자체현금 vs 차입)"]},
+    {"channel": "CNBC", "region": "US", "covered": ["연준·워시(동시 긴축 · 인상 확률)", "유가·호르무즈 $110"]},
+    {"channel": "TradingKey · 24/7 Wall St", "region": "US", "covered": ["에너지·방산 로테이션 vs AI 데이터센터", "AI 자금조달 분리(자체현금 vs 차입)"]},
+    {"channel": "Rigzone", "region": "US", "covered": ["유가·호르무즈 $110"]}
   ],
   "topics": [
     {
-      "id": "t1",
-      "rank": 1,
-      "kind": "급부상 · 국장↔미장",
-      "urgency": "오늘 안에",
-      "title_trust": "같은 날 미국은 옮겼고 한국은 나갔다 — 다우 +1.08% vs 코스피 -7.57%, 자금 흐름 해부도",
-      "title_curious": "나스닥이 멀쩡한데 왜 코스피만 서킷브레이커? 미국 현지에서 보이는 '피난처'의 차이",
-      "thumb": "옮김 vs 나감",
-      "fact": "10/15 미국: 지수(S&P +0.33%)는 보합인데 동일가중 S&P +1.4%, 헬스케어 ETF +1.86%, 기술 -0.65%. 한국: 코스피 -7.57%, 외국인 -3조 6,241억, 시총 10위 중 삼성바이오(+5.5%)만 상승. 10/16 09:17 반등장에서도 외국인 -2,183억.",
-      "insight": "미국 자금은 AI를 팔고 같은 시장 안의 헬스케어·소비·금융으로 '옮겼다'(로테이션). 한국은 옮겨 앉을 대형 섹터가 얇아 팔면 시장 밖으로 '나간다'(엑소더스). 같은 악재(PPI·AI 부채)가 미국엔 체온 변화, 한국엔 출혈이 되는 구조. 오늘 아침 KB금융 +4.53%·삼성생명 +4.82%·알테오젠 +3.98%는 국장 안에서도 로테이션이 시작되는지 보는 첫 표본.",
-      "checks": ["외국인 현물 순매수 전환(마감 기준)", "코스피 금융·바이오 vs 반도체 상대 등락", "미국 동일가중 S&P가 시총가중을 이기는 날이 이어지는지"],
-      "emotion": "억울함 → 구조 이해 (내 종목 문제가 아니라 시장 체질 문제)",
-      "hook": "\"미국 현지에서 매일 아침 체온계\" 시리즈 2편 — 1편(10/15 CPI·AI 부채)의 후속으로 자연스러운 구독 유도",
-      "diff": "국내 10/15 영상 7편 중 미국 '로테이션'을 한국 '엑소더스'와 같은 화면에 놓은 영상 0편. 공포 제목 대신 섹터 등락 막대 1장 + 외국인 누적 1장으로 설명.",
-      "angles": ["미국 로테이션(섹터 순환)", "외국인 수급·엑소더스"],
+      "id": "t1", "rank": 1, "kind": "급부상 · 국장↔미장", "urgency": "오늘 안에 (월요일 개장 전 업로드)",
+      "title_trust": "서울이 +2.05% 반등한 밤, 뉴욕 반도체는 -3.83% — 월요일 시초가 X-ray: SK하이닉스 ADR -6.58% vs 서울 +0.79%",
+      "title_curious": "금요일 외국인이 돌아왔다는데, 미국에선 같은 주식을 6.6% 팔았다 — 월요일 아침 7.4%p 괴리는 누가 메우나",
+      "thumb": "7.4%p 괴리",
+      "fact": "10/16 서울: 코스피 +2.05%, 외국인 +3,430억(9일 만), SK하이닉스 +0.79%·삼성전자 +2.62%. 같은 날 뉴욕(서울 마감 후): SOX -3.83%(30종목 전부 하락, 9일 연속), SK하이닉스 ADR -6.58%(주간 -18%), 마이크론 -5.63%, 씨게이트 -7.50%. 나스닥 주간 -4.5%.",
+      "insight": "반등을 만든 건 반도체가 아니라 현대차(+5.58%)·바이오(+4.09%)·금융이었고, 반도체는 미국이 자는 동안의 가격이다. 외국인 +3,430억은 8일 누적 -21.2조의 1.6% — 환자 체온이 0.1도 올랐다고 퇴원시키지 않는다. 미국 현지에서 보면 금요일 밤 메모리 급락은 '한국 반도체의 월요일 가격'을 이미 정해 놓은 상태. 체크포인트는 시초가 갭의 크기와 그 갭을 외국인이 받는지 여부.",
+      "checks": ["월요일 09:00 SK하이닉스 시초가 — ADR 환산가(-6.58%) 대비 서울 괴리 7.4%p가 몇 %p 남는지", "외국인 현물 2일 연속 순매수 (마감 기준)", "코스피 반등 주도주(현대차·바이오·금융)가 반도체 갭 하락 날에도 플러스를 지키는지"],
+      "emotion": "안도 뒤의 불안 → 구조 이해 (금요일 반등은 미국 마감 전 가격)",
+      "hook": "\"미국 현지에서 매일 아침 체온계\" 3편 — 1편(CPI·AI 부채) → 2편(로테이션 vs 엑소더스) → 3편(월요일 시초가 X-ray). 주말 업로드라 월요일 개장 전 '오늘 꼭 봐야 하는 영상'으로 구독 전환",
+      "diff": "국내 10/16 영상 8편 전부 뉴욕 마감 전 업로드 → ADR -6.58%·SOX -3.83%를 월요일 국장과 연결한 영상 0편. 공포 제목 대신 '괴리 7.4%p' 숫자 하나와 막대 1장으로 설명.",
+      "angles": ["외국인 수급 전환(소규모)", "에너지·방산 로테이션 vs AI 데이터센터"],
       "signals": [
-        {"label": "동일가중 S&P vs 코스피 (10/15)", "value": "+1.4% vs -7.57%", "source": "Market Index·KRX"},
-        {"label": "헬스케어 ETF vs 기술 ETF", "value": "+1.86% vs -0.65%", "source": "ts2.tech 섹터 집계"},
-        {"label": "외국인 코스피 순매도 (8일 누적)", "value": "-21조 1,824억", "source": "중앙이코노미뉴스"},
-        {"label": "국내 채널 중 '로테이션 vs 엑소더스' 각도", "value": "0 / 7편", "source": "Alpha by Mossland 10/15 집계"}
+        {"label": "SK하이닉스 ADR vs 서울 현물 (10/16)", "value": "-6.58% vs +0.79%", "source": "TradingKey · 헤럴드경제"},
+        {"label": "필라델피아 반도체 (10/16)", "value": "-3.83%, 30/30 하락", "source": "TradingKey"},
+        {"label": "외국인 순매수 vs 직전 8일 누적", "value": "+3,430억 vs -21조 1,824억 (1.6%)", "source": "헤럴드경제 · 중앙이코노미뉴스"},
+        {"label": "국내 10/16 영상 중 미국 금요일 반도체 급락을 월요일과 연결", "value": "0 / 8편", "source": "Alpha by Mossland 코스피 페이지 (10/17 06:19)"}
       ],
       "charts": [
-        {"type": "bar", "title": "10/15 미국 섹터 ETF 등락 — AI에서 구경제로", "unit": "%", "items": [
-          {"label": "헬스케어 XLV", "value": 1.86}, {"label": "소재 XLB", "value": 1.79}, {"label": "임의소비재 XLY", "value": 1.71}, {"label": "금융 XLF", "value": 1.38}, {"label": "산업재 XLI", "value": 0.51}, {"label": "기술 XLK", "value": -0.65}, {"label": "에너지 XLE", "value": -1.58}
-        ], "source": "ts2.tech (10/15 종가)"},
-        {"type": "bar", "title": "같은 날, 다른 체온 — 10/15 지수 등락", "unit": "%", "items": [
-          {"label": "러셀2000", "value": 1.37}, {"label": "다우", "value": 1.08}, {"label": "S&P500", "value": 0.33}, {"label": "나스닥", "value": 0.08}, {"label": "닛케이", "value": -4.9}, {"label": "코스피", "value": -7.57}, {"label": "코스닥", "value": -7.65}
-        ], "source": "NYSE·KRX·Market Index"}
+        {"type": "bar", "title": "같은 날, 반대 체온 — 10/16 등락률", "unit": "%", "items": [
+          {"label": "코스닥", "value": 4.46}, {"label": "코스피", "value": 2.05}, {"label": "SK하이닉스 (서울)", "value": 0.79},
+          {"label": "S&P500", "value": -1.09}, {"label": "나스닥", "value": -2.14},
+          {"label": "SOX 반도체", "value": -3.83}, {"label": "마이크론", "value": -5.63}, {"label": "SK하이닉스 ADR", "value": -6.58}
+        ], "source": "KRX·헤럴드경제·Yahoo Finance·TradingKey (10/16 종가)"},
+        {"type": "bar", "title": "반등을 만든 건 반도체가 아니었다 — 10/16 코스피 대형주", "unit": "%", "items": [
+          {"label": "현대차", "value": 5.58}, {"label": "삼성바이오로직스", "value": 4.09}, {"label": "삼성생명", "value": 3.95}, {"label": "삼성전자", "value": 2.62},
+          {"label": "SK스퀘어", "value": 2.48}, {"label": "KB금융", "value": 2.11}, {"label": "SK하이닉스", "value": 0.79}, {"label": "삼성SDI", "value": -1.85}
+        ], "source": "헤럴드경제 (KRX 10/16 마감)"}
       ],
       "coverage": [
-        {"channel": "삼프로TV (송종호)", "region": "KR", "when": "10/15", "angle": "외국인 수급 — 펀더멘털은 유지", "views": null},
-        {"channel": "김작가TV (목대균)", "region": "KR", "when": "10/15", "angle": "외국인 200조 매도 배경", "views": null},
-        {"channel": "Market Index / Reuters", "region": "US", "when": "10/16", "angle": "동일가중 +1.4%, AI → 헬스케어·소비", "views": null},
-        {"channel": "ts2.tech", "region": "US", "when": "10/15", "angle": "Broad rotation beats tech", "views": null}
+        {"channel": "삼프로TV (클로징벨)", "region": "KR", "when": "10/16", "angle": "외국인 순매수 규모 작고 반도체 주도력 약함", "views": null},
+        {"channel": "연합뉴스TV", "region": "KR", "when": "10/16", "angle": "돌아온 외인, 추세 상승엔 신중", "views": null},
+        {"channel": "TradingKey", "region": "US", "when": "10/16", "angle": "SOX -3.83%, 메모리 전면 하락, SK하이닉스 ADR 주간 -18%", "views": null},
+        {"channel": "Yahoo Finance", "region": "US", "when": "10/16", "angle": "나스닥 주간 -4.5%, 6월 말 이후 최악", "views": null}
       ]
     },
     {
-      "id": "t2",
-      "rank": 2,
-      "kind": "틈새 · 역발상 · 국장↔미장",
-      "urgency": "오늘 안에 (12:30 워시 대담 전후)",
-      "title_trust": "PPI 6.3%, 예상의 2배였는데 금리는 내렸다 — 채권시장이 읽은 '체온계' 3가지 숫자",
-      "title_curious": "물가 쇼크에 10년물이 -10bp? 인상 확률 29%의 미국이 한국 금통위(10/22)에 보내는 신호",
-      "thumb": "쇼크인데 -10bp",
-      "fact": "9월 PPI +1.3% m/m(컨센 +0.5%)·6.3% y/y(2022년 이후 최고), 근원 +0.7%(컨센 +0.3%). 그런데 10년물 5.086%(-10bp, 3주 최저), 10월 인상 확률 31.6% → 29.3%. 에너지 +10.8%, 소매판매 통제그룹 +0.1%(컨센 +0.3%), 필라델피아 연준 20.9(컨센 28.4).",
-      "insight": "채권시장은 PPI를 '기름값이 만든 일회성 열'로, 통제그룹·필라델피아 연준을 '체력 저하'로 읽었다 → 연준이 올리기 어려운 조합(스태그플레이션 체온). 국장 연결: 한국은행은 7·8월 두 번 올려 3.00%, 10/22 동결 컨센 — 미국 10년물이 5.1% 아래로 내려오면 원/달러(1,341원)와 외국인 채권 자금의 압력이 어떻게 바뀌는지. 오늘 12:30 워시 대담이 '2차 효과'를 언급하면 이 해석이 뒤집힌다.",
-      "checks": ["워시 대담 '2차 효과(second-round)' 언급 여부", "10년물 5.19% 재돌파 여부(10/16 주시 레벨)", "10/22 금통위 소수의견 수"],
-      "emotion": "혼란 해소 — \"뉴스 헤드라인과 금리가 반대로 가는 이유를 알겠다\"",
-      "hook": "용어 한 줄 풀이(PPI·통제그룹·2차 효과)로 초보 구독자 유입 + 금통위 전 '한국은행 체온계' 예고편",
-      "diff": "국내 10/15 영상 중 PPI-금리 역설을 다룬 편 0. 해외는 IBTimes 1건. 미국 현지 시각 + 인상 확률 시간별 선 차트가 차별점.",
-      "angles": ["PPI·연준 인상 확률", "외국인 수급·엑소더스"],
+      "id": "t2", "rank": 2, "kind": "틈새 · 역발상 · 국장↔미장", "urgency": "이번 주",
+      "title_trust": "빚의 체온계: 미국은 기업이 빚으로 AI를 짓고(CoreWeave CDS 1,117bp), 한국은 개인이 빚으로 반도체를 샀다(신용융자 34.3조)",
+      "title_curious": "금요일 -10% 5형제의 공통점은 '빌려서 짓는 회사' — 그래서 삼성전자 반대매매와 같은 병입니다",
+      "thumb": "빚의 체온",
+      "fact": "10/16 미국 급락 상위 5개(CoreWeave -11.91%, Applied Digital -11.9%, IREN -11.3%, Cipher -10.9%, DigitalOcean -10.3%)는 전부 차입으로 데이터센터를 짓는 회사. CoreWeave 총부채 $510억+, 2031년물 수익률 16%+, 5년 CDS 1,117bp. 한국: 신용융자 잔고 34조 2,529억(10/13), 반대매매 593.5억(10/13, 7/31 이후 최대), 10/16 코스피 개인 -4,847억.",
+      "insight": "TheStreet DePorre의 한 줄 — 'AI는 자체 현금으로 짓는 회사와 빌려서 짓는 회사로 갈라졌고, 빌린 쪽은 금리 민감주처럼 거래된다'. 같은 원리가 국장 개인 계좌에 적용된다: 빚으로 산 자산은 실적이 아니라 금리와 담보비율이 가격을 정한다. 10년물 5.10%가 유지되는 한 양쪽 다 '금리에 혈압이 반응하는 환자'. 젠슨 황의 '떠받칠 필요 없다'(엔비디아 지분 10%)와 BofA 매수 유지 $140은 반대편 진단으로 같이 보여준다.",
+      "checks": ["CoreWeave $60 지지 여부와 CDS 1,117bp 방향 (주간 -25.21% 뒤)", "금투협 신용융자 잔고 34.25조에서 감소 전환 여부 (반대매매 날 vs 반등 날)", "10년물 5.10% — 5.3% 기준선 재접근 시 '차입 AI 5형제'와 코스피 신용 상위 종목 동반 약세 여부"],
+      "emotion": "내 계좌의 반대매매 공포 → '내 문제가 아니라 금리의 문제'라는 거리 두기",
+      "hook": "본 채널 10/15 영상(CoreWeave·신용 우려)의 후속 — 미국 신용 이야기를 '내 계좌 반대매매'로 연결해 국장 개인 투자자 구독 전환",
+      "diff": "국내는 반대매매를 '개미 비명'(연합뉴스TV)·'수급 구조'(삼프로TV)로, 미국은 CoreWeave를 'AI 거품'으로 따로 다룸. 두 빚을 한 체온계에 놓은 영상 0편. 금지어 없이 '혈압(부채)·체온(금리)' 비유로 정리.",
+      "angles": ["AI 자금조달 분리(자체현금 vs 차입)", "신용·반대매매(빚투)"],
       "signals": [
-        {"label": "9월 PPI m/m (컨센 +0.5%)", "value": "+1.3%", "source": "BLS·Investrade"},
-        {"label": "10년물 (10/15)", "value": "5.086% (-10bp)", "source": "WSJ·Yahoo ^TNX"},
-        {"label": "10월 인상 확률 (PPI 후 09:47 ET)", "value": "29.3%", "source": "CME FedWatch via IBTimes"},
-        {"label": "필라델피아 연준 (컨센 28.4)", "value": "20.9", "source": "Investrade"}
+        {"label": "CoreWeave 5년 CDS · 2031년물 수익률", "value": "1,117bp · 16%+", "source": "TradingKey (10/16)"},
+        {"label": "AI 차입 기업 5개 당일 평균 등락", "value": "약 -11.3% (5개 평균)", "source": "24/7 Wall St (10/16 16:10 ET)"},
+        {"label": "신용거래융자 잔고 (10/13)", "value": "34조 2,529억", "source": "금융투자협회 (SBS Biz)"},
+        {"label": "반대매매 (10/13)", "value": "593.5억 — 7/31(1,220억) 이후 최대", "source": "금융투자협회 (SBS Biz)"}
       ],
       "charts": [
-        {"type": "line", "title": "10월 FOMC 인상 확률 — CPI·PPI 전후 (CME FedWatch)", "unit": "%", "points": [
-          {"x": "10/13", "label": "CPI 전", "y": 22}, {"x": "10/14 09:21 ET", "label": "CPI 직후", "y": 50}, {"x": "10/14 19:23 ET", "label": "AI 투매 후", "y": 31.6}, {"x": "10/15 09:47 ET", "label": "PPI 후", "y": 29.3}
-        ], "source": "FinanceFeeds·FXStreet·IBTimes"},
-        {"type": "line", "title": "미국 10년물 — 9월 인상 이후 체온 추이", "unit": "%", "points": [
-          {"x": "9/16", "y": 5.01}, {"x": "9/23", "y": 5.11}, {"x": "9/30", "y": 5.29}, {"x": "10/05", "y": 5.31}, {"x": "10/09", "y": 5.24}, {"x": "10/13", "y": 5.22}, {"x": "10/14", "y": 5.19}, {"x": "10/15", "y": 5.09}
-        ], "source": "Yahoo Finance ^TNX (WizView market.json)"}
+        {"type": "bar", "title": "10/16 미국: 빌려서 짓는 회사 vs 현금으로 버는 회사", "unit": "%", "items": [
+          {"label": "Equinor (에너지)", "value": 4.6}, {"label": "Northrop (방산)", "value": 4.0}, {"label": "릴리 (2군)", "value": 0.6},
+          {"label": "DigitalOcean", "value": -10.3}, {"label": "Cipher", "value": -10.9}, {"label": "IREN", "value": -11.3}, {"label": "Applied Digital", "value": -11.9}, {"label": "CoreWeave", "value": -11.91}
+        ], "source": "24/7 Wall St · WizView market.json (10/16 종가)"}
       ],
       "coverage": [
-        {"channel": "IBTimes", "region": "US", "when": "10/15", "angle": "PPI 쇼크인데 인상 확률 하락", "views": null},
-        {"channel": "서울경제(EN)", "region": "US", "when": "10/16", "angle": "워시 대담 앞두고 금리 경로 불투명", "views": null},
-        {"channel": "연합뉴스TV", "region": "KR", "when": "10/15", "angle": "물가충격에 나스닥 -1.9% (PPI 역설 미다룸)", "views": null}
+        {"channel": "연합뉴스TV", "region": "KR", "when": "10/16", "angle": "연이틀 800억대 강제매도 (원자료 미확인)", "views": null},
+        {"channel": "삼프로TV (주린이 구조대)", "region": "KR", "when": "10/15", "angle": "신용융자 늘고 받아줄 수급 줄었다", "views": null},
+        {"channel": "TheStreet", "region": "US", "when": "10/16", "angle": "AI 자체현금 vs 차입 분리, 차입은 금리 민감주", "views": null},
+        {"channel": "Yahoo Finance", "region": "US", "when": "10/16", "angle": "CoreWeave $60 지지 · BofA 매수 유지", "views": null}
       ]
     },
     {
-      "id": "t3",
-      "rank": 3,
-      "kind": "급부상 트렌드 · 국장↔미장 · 2군 Steady",
-      "urgency": "이번 주",
-      "title_trust": "폭락장에서 오른 것: 미국 헬스케어 ETF 사상 최고, 릴리 +3.55%, 삼성바이오 +5.5% — '피난처' 검진표",
-      "title_curious": "AI를 판 돈은 어디로 갔나 — 미국·한국 양쪽에서 같은 날 오른 유일한 업종",
-      "thumb": "피난처 검진",
-      "fact": "10/15 XLV +1.86% 사상 최고($178 부근), 일라이 릴리 +3.55%($1,251.61, 50일선 +6.2%). 같은 날 코스피 시총 10위 중 삼성바이오로직스만 +5.5%, 10/16 아침 알테오젠 +3.98%. 릴리 실적 10/29(장전) — 최근 8분기 중 6번 비트, 발표 다음날 평균 반응 +0.0%(최대 +10.33%·최소 -14.14%).",
-      "insight": "고금리·AI 부채 국면에서 돈이 찾는 조건 = 현금흐름이 금리에 덜 민감하고 AI 자본지출에 의존하지 않는 매출. 릴리(2군 Steady)는 마운자로·젭바운드 현금흐름으로 그 조건에 맞는 '해부도' 표본. 다만 릴리도 2025년 5·8월 실적엔 -11.66%·-14.14% — 피난처도 실적일엔 체온이 튄다. 권유가 아니라 '왜 오르는지 구조'를 보는 영상.",
-      "checks": ["XLV 상대강도(vs S&P) 지속", "릴리 10/29 컨센 EPS $6.40 vs 전년 $7.02 — 역성장 컨센의 의미", "국내 바이오 외국인 순매수 전환 여부"],
-      "emotion": "안도 + 호기심 (전부 빠진 게 아니었다)",
-      "hook": "학습기업 2군 Steady 소개 → '실적 전 검진표' 시리즈(10/19 TSLA → 10/26 GEV → 10/27 LLY) 예고",
-      "diff": "국내 채널은 반도체·외국인에 집중, 바이오 로테이션을 미국 XLV 사상 최고와 묶은 영상 0편. WizView 8분기 데이터로 '피난처의 실적일 변동성'까지 보여줌.",
-      "angles": ["헬스케어·바이오 피난처", "미국 로테이션(섹터 순환)"],
+      "id": "t3", "rank": 3, "kind": "급부상 트렌드 · 국장↔미장", "urgency": "이번 주",
+      "title_trust": "브렌트 $110, 5월 이후 처음 — 금요일 미국 상승 상위 5개가 전부 에너지·방산이었던 날의 해부도",
+      "title_curious": "유가가 $110을 찍은 날 코스피에서 유일하게 내린 업종 — 금통위(10/22) 성명에 '유가'가 들어가면 생기는 일",
+      "thumb": "$110",
+      "fact": "브렌트 12월물 $109.86(+3.7%, 장중 $110), WTI $101.41(+3.5%), 연초 대비 +75%. 미국 에너지 섹터 +2.52%, Equinor +4.6%·Diamondback +4.3%·Kinder Morgan +4.3%·Northrop +4.0%. 코스피 업종 중 운수창고만 -0.45%. 미국 9월 수입물가 8.1% y/y. 유라시아그룹 확전 확률 35% → 65%, 미국 SPR 1,700만 배럴 방출 제안.",
+      "insight": "미국 현지에서 보면 돈은 'AI 데이터센터(차입)'에서 '현금흐름이 바로 나오는 에너지·방산'으로 옮겨가는 중이고, 유가는 10/22 금통위와 10/29 FOMC 두 체온계에 동시에 들어간다. 한국은 원유 수입국이라 유가 $110은 수입물가 → 금통위 동결 명분 약화 → 외국인 채권·주식 자금의 2차 경로. 정유·조선·방산이 오르는 날 항공·해운·화학이 내리는 '같은 유가, 다른 체온' 구조를 업종 막대 1장으로.",
+      "checks": ["일요일 밤 선물 재개 때 브렌트 $110 유지 여부 (주말 호르무즈·후티 뉴스)", "월요일 운수창고·항공 vs 정유·조선·방산 상대 등락", "10/22 금통위 통방문에 '유가·수입물가' 문구 포함 여부"],
+      "emotion": "유가 뉴스 피로 → '내 업종엔 어느 방향인지' 명확화",
+      "hook": "금통위 D-5 선행 — 10/22 결과 후 쇼츠로 '예측 vs 실제' 갱신하면 시리즈 신뢰 축적",
+      "diff": "국내 10/16 영상 8편 중 유가·에너지 로테이션을 다룬 영상 0편(호르무즈는 뉴스 채널의 지정학 보도만). 해외는 유가 기사와 증시 기사가 분리. '유가 → 금통위 → 외국인' 인과 사슬을 국장 업종 등락으로 보여준 영상 없음.",
+      "angles": ["유가·호르무즈 $110", "에너지·방산 로테이션 vs AI 데이터센터"],
       "signals": [
-        {"label": "일라이 릴리 (10/15)", "value": "+3.55%", "source": "Yahoo (WizView market.json)"},
-        {"label": "삼성바이오로직스 (10/15)", "value": "+5.5%", "source": "중앙이코노미뉴스"},
-        {"label": "릴리 8분기 비트", "value": "6 / 8", "source": "Nasdaq (WizView earnings.json)"},
-        {"label": "릴리 10/29 컨센 EPS vs 전년", "value": "$6.40 vs $7.02", "source": "Nasdaq"}
+        {"label": "브렌트 12월물 (10/16 마감)", "value": "$109.86 (+3.7%), 연초 대비 +75%", "source": "Rigzone"},
+        {"label": "미국 에너지 섹터 vs 기술 섹터 (10/16)", "value": "+2.52% vs -3% 초과", "source": "TheStreet"},
+        {"label": "코스피 업종 유일 하락 (10/16)", "value": "운수창고 -0.45%", "source": "아시아경제"},
+        {"label": "유라시아그룹 확전 확률", "value": "35% → 65%", "source": "Rigzone"}
       ],
       "charts": [
-        {"type": "bar", "title": "일라이 릴리 실적 발표 다음날 주가 반응 (최근 8분기)", "unit": "%", "items": [
-          {"label": "24.9월", "value": -6.28, "tag": "미스"}, {"label": "24.12월", "value": 3.35, "tag": "비트"}, {"label": "25.3월", "value": -11.66, "tag": "미스"}, {"label": "25.6월", "value": -14.14, "tag": "비트"}, {"label": "25.9월", "value": 3.81, "tag": "비트"}, {"label": "25.12월", "value": 10.33, "tag": "비트"}, {"label": "26.3월", "value": 9.8, "tag": "비트"}, {"label": "26.6월", "value": 4.86, "tag": "비트"}
-        ], "source": "Nasdaq·Yahoo (WizView earnings.json)"},
-        {"type": "bar", "title": "10/15 폭락장에서 오른 것 vs 빠진 것", "unit": "%", "items": [
-          {"label": "삼성바이오 (서울)", "value": 5.5}, {"label": "릴리 (NY)", "value": 3.55}, {"label": "XLV (NY)", "value": 1.86}, {"label": "엔비디아 (NY)", "value": -1.84}, {"label": "TSMC ADR", "value": -4.14}, {"label": "삼성전자 (서울)", "value": -9.48}, {"label": "SK하이닉스 (서울)", "value": -11.06}
-        ], "source": "NYSE·KRX 10/15 종가"}
+        {"type": "bar", "title": "10/16 코스피 업종 등락 — 유가 $110의 날", "unit": "%", "items": [
+          {"label": "의료정밀", "value": 6.05}, {"label": "제약", "value": 4.65}, {"label": "유통", "value": 4.28}, {"label": "운수장비", "value": 4.21}, {"label": "증권", "value": 4.16}, {"label": "코스피 전체", "value": 2.05}, {"label": "운수창고", "value": -0.45}
+        ], "source": "아시아경제 (KRX 10/16 마감)"},
+        {"type": "bar", "title": "10/16 미국 — 에너지·방산 vs 반도체", "unit": "%", "items": [
+          {"label": "Equinor", "value": 4.6}, {"label": "Diamondback", "value": 4.3}, {"label": "Northrop", "value": 4.0}, {"label": "에너지 섹터", "value": 2.52}, {"label": "S&P500", "value": -1.09}, {"label": "나스닥", "value": -2.14}, {"label": "SOX 반도체", "value": -3.83}
+        ], "source": "TheStreet · 24/7 Wall St · TradingKey (10/16 종가)"}
       ],
       "coverage": [
-        {"channel": "Market Index / Reuters", "region": "US", "when": "10/16", "angle": "AI → 헬스케어·소비 로테이션", "views": null},
-        {"channel": "The Standard (HK)", "region": "US", "when": "10/16", "angle": "릴리·유나이티드헬스로 자금 이동", "views": null},
-        {"channel": "국내 채널", "region": "KR", "when": "—", "angle": "바이오 로테이션 각도 0편 (10/15 기준)", "views": null}
+        {"channel": "연합뉴스TV · KBS · JTBC", "region": "KR", "when": "10/15~16", "angle": "호르무즈 화물선 침몰 지정학 보도 (증시 연결 없음)", "views": null},
+        {"channel": "Rigzone", "region": "US", "when": "10/16", "angle": "브렌트 $110, 공급 리스크·유라시아 65%", "views": null},
+        {"channel": "CNBC", "region": "US", "when": "10/16", "angle": "이란 호르무즈 공격 확대 + 우크라이나 정유소 타격", "views": null},
+        {"channel": "24/7 Wall St", "region": "US", "when": "10/16", "angle": "상위 5 에너지·방산, 하위 5 AI 데이터센터", "views": null}
       ]
     },
     {
-      "id": "t4",
-      "rank": 4,
-      "kind": "1군 Core 실적 전 검진표 (10/15 t4 연속 기획)",
-      "urgency": "이번 주 (로드스터 반응 확인 후 10/18~19 업로드)",
-      "title_trust": "테슬라 로드스터 공개 D-day + 실적 D-6 검진표: 공개 행사 뒤 주가는 3번 중 3번 내렸다",
-      "title_curious": "1,000대 한정 로드스터 매출 $2.5억 = 시총의 0.02% — 그런데 왜 오늘 주가가 움직이나",
-      "thumb": "D-6 검진표",
-      "fact": "10/16 09:55 KST 와코에서 로드스터 공개(9년·7차례 연기, 파운더스 $25만·1,000대 한정, 생산 2027~28년). 과거 공개 행사 다음날: 사이버트럭 2019 -6%, 사이버캡 2024.10 -8.3%, 2026.9.4 -5.92%. 10/22 새벽 실적 — 컨센 EPS $0.21(전년 $0.37), 최근 8분기 6연속 미스, 다음날 반응 4승 4패. 현재가 $362.44, 50일선 +1.0%.",
-      "insight": "로드스터는 손익계산서가 아니라 '스토리 체온'을 재는 이벤트. 공개 행사 뒤 하락 3연속은 '기대 선반영 → 사실 확인 → 차익'의 패턴이고, 실적 반응 히스토리는 '미스해도 로보택시·옵티머스 발언이 나오면 오르는' 패턴(25년 3·10월). 둘을 합치면 10/22까지 체크포인트가 정해진다. 3분기 인도 48.6만 대·ESS 13.7GWh는 이미 공개된 숫자.",
-      "checks": ["로드스터 공개 후 첫 거래일(10/16 밤) 등락 — 과거 3회 패턴과 비교", "컨퍼런스콜 로보택시·옵티머스 매출 언급 여부", "자동차 마진 vs 에너지 저장 매출 비중"],
-      "emotion": "준비된 기대 (이벤트에 휘둘리지 않는 체크리스트)",
-      "hook": "실적 당일 '실제 반응 vs 8분기 패턴' 쇼츠로 재방문 유도 — WizView 데이터로 매 분기 반복 가능",
-      "diff": "국내 채널은 로드스터 '하늘을 난다' 이벤트성 보도 위주. 공개 행사 반응 통계 + 8분기 실적 반응을 한 검진표로 묶은 영상 없음(10/16 아침 기준).",
-      "angles": ["테슬라 로드스터·실적"],
+      "id": "t4", "rank": 4, "kind": "1군 Core 실적 전 검진표 (D-4) · 로드스터 결과 반영", "urgency": "10/21 (화) 업로드 마감",
+      "title_trust": "테슬라 실적 D-4 정밀검진: 로드스터 공개 뒤 -2.71%로 '행사 후 하락' 4번 중 4번 — 이제 EPS $0.21 vs 전년 $0.37",
+      "title_curious": "프리마켓 +5.4%가 마감 -2.71%로 뒤집힌 이유 — 8분기 중 6번 미스한 회사의 실적 발표일 체온 읽기",
+      "thumb": "4/4 하락",
+      "fact": "10/15 밤 로드스터 공개(텍사스 맥그리거 SpaceX 시설, 2028년 생산, 예약금 $5만/$25만, 0-60mph 1초 미만 주장). 10/16 프리마켓 +5.4% → 마감 $352.61(-2.71%), 50일선 -1.9%. 과거 공개 행사 후: 사이버트럭 -6%, 사이버캡 -8.3%, 9/4 -5.92%, 로드스터 -2.71%. 10/22 05:00 KST 실적: 컨센 EPS $0.21(전년 $0.37), 8분기 중 비트 2회, 최근 반응 -14.52%(7월). 3분기 인도 48만 6,532대·ESS 13.7GWh.",
+      "insight": "진 먼스터 '상업적 가치 없는 엔지니어링 과시, 그러나 SpaceX와의 결합 의지 신호'. 미국 현지에서 보면 이번 실적의 변수는 자동차 마진이 아니라 (1) SpaceX 합병 언급 (2) 로보택시·옵티머스 숫자 (3) 같은 날 메타($6.35, 전년 $7.25)·넷플릭스·IBM과 함께 'AI 캐펙스로 이익이 줄어드는 회사' 묶음으로 읽히는지. 8분기 반응 막대에서 미스인데 올랐던 두 번(25.4월 +5.37%, 25.10월 +2.28%)의 공통점은 '발표 전 5일 이미 하락'이었다는 점을 짚는다.",
+      "checks": ["10/21 (화) 마감가가 50일선 $359.42 위인지 (발표 전 5일 방향)", "컨콜에서 SpaceX·로보택시 숫자가 EPS보다 먼저 나오는지", "발표 다음 날 반응이 8분기 중앙값(-3.5% 부근)을 벗어나는지"],
+      "emotion": "로드스터 흥분 → 실적 체온 현실 점검 (기대치 리셋)",
+      "hook": "10/15·16 검진표의 완결편 — 10/22 결과를 쇼츠로 붙여 '예측 → 결과' 시리즈 신뢰 축적. 1군 Core 학습기업 체계 소개",
+      "diff": "국내 10/16 영상 8편 중 테슬라 실적 0편(로드스터는 뉴스 보도만). 미국은 로드스터 '쇼' 평가에 집중. 8분기 비트/미스 + 반응 막대 + EPS 실제 vs 예상 선 차트는 WizView 데이터 기반 본 채널 고유.",
+      "angles": ["테슬라 로드스터 → 실적 D-4", "AI 자금조달 분리(자체현금 vs 차입)"],
       "signals": [
-        {"label": "과거 공개 행사 다음날", "value": "-6% / -8.3% / -5.92%", "source": "KuCoin 정리 (사이버트럭·사이버캡·9/4)"},
-        {"label": "최근 8분기 미스", "value": "6 / 8", "source": "Nasdaq (WizView)"},
-        {"label": "컨센서스 EPS (전년 $0.37)", "value": "$0.21", "source": "Nasdaq"},
-        {"label": "로드스터 파운더스 매출 상한", "value": "$2.5억 (1,000대×$25만)", "source": "KuCoin"}
+        {"label": "테슬라 10/16 (로드스터 공개 다음 날)", "value": "프리마켓 +5.4% → 마감 -2.71%", "source": "Yahoo Finance · WizView market.json"},
+        {"label": "8분기 EPS 비트 / 미스", "value": "2 비트 / 6 미스", "source": "WizView earnings.json (Nasdaq)"},
+        {"label": "최근 발표 다음 날 반응 (2026.7)", "value": "-14.52% (5일 -17.42%)", "source": "WizView earnings.json"},
+        {"label": "컨센 EPS vs 전년", "value": "$0.21 vs $0.37 (-43%)", "source": "Nasdaq · StockTitan"}
       ],
       "charts": [
-        {"type": "bar", "title": "테슬라 실적 발표 다음날 주가 반응 (최근 8분기)", "unit": "%", "items": [
-          {"label": "24.9월", "value": 21.92, "tag": "비트"}, {"label": "24.12월", "value": 2.87, "tag": "비트"}, {"label": "25.3월", "value": 5.37, "tag": "미스"}, {"label": "25.6월", "value": -8.2, "tag": "미스"}, {"label": "25.9월", "value": 2.28, "tag": "미스"}, {"label": "25.12월", "value": -3.45, "tag": "미스"}, {"label": "26.3월", "value": -3.56, "tag": "미스"}, {"label": "26.6월", "value": -14.52, "tag": "미스"}
-        ], "source": "Nasdaq·Yahoo Finance (WizView earnings.json)"},
-        {"type": "line", "title": "EPS 실제 vs 예상 (달러)", "unit": "$", "series": [
-          {"name": "실제", "points": [{"x": "24.9", "y": 0.62}, {"x": "24.12", "y": 0.66}, {"x": "25.3", "y": 0.15}, {"x": "25.6", "y": 0.27}, {"x": "25.9", "y": 0.37}, {"x": "25.12", "y": 0.31}, {"x": "26.3", "y": 0.18}, {"x": "26.6", "y": 0.04}]},
-          {"name": "예상", "points": [{"x": "24.9", "y": 0.46}, {"x": "24.12", "y": 0.62}, {"x": "25.3", "y": 0.35}, {"x": "25.6", "y": 0.29}, {"x": "25.9", "y": 0.41}, {"x": "25.12", "y": 0.34}, {"x": "26.3", "y": 0.21}, {"x": "26.6", "y": 0.32}]}
-        ], "source": "Nasdaq (WizView earnings.json)"}
+        {"type": "bar", "title": "테슬라 실적 발표 다음 날 주가 반응 — 최근 8분기", "unit": "%", "items": [
+          {"label": "24.10", "value": 21.92, "tag": "비트"}, {"label": "25.1", "value": 2.87, "tag": "비트"}, {"label": "25.4", "value": 5.37, "tag": "미스"}, {"label": "25.7", "value": -8.2, "tag": "미스"},
+          {"label": "25.10", "value": 2.28, "tag": "미스"}, {"label": "26.1", "value": -3.45, "tag": "미스"}, {"label": "26.4", "value": -3.56, "tag": "미스"}, {"label": "26.7", "value": -14.52, "tag": "미스"}
+        ], "source": "WizView earnings.json (Nasdaq · Yahoo)"},
+        {"type": "line", "title": "테슬라 EPS 실제 vs 예상 — 8분기 + 이번 컨센", "unit": "$", "series": [
+          {"name": "실제", "points": [{"x": "24.10", "y": 0.62}, {"x": "25.1", "y": 0.66}, {"x": "25.4", "y": 0.15}, {"x": "25.7", "y": 0.27}, {"x": "25.10", "y": 0.37}, {"x": "26.1", "y": 0.31}, {"x": "26.4", "y": 0.18}, {"x": "26.7", "y": 0.04}]},
+          {"name": "예상", "points": [{"x": "24.10", "y": 0.46}, {"x": "25.1", "y": 0.62}, {"x": "25.4", "y": 0.35}, {"x": "25.7", "y": 0.29}, {"x": "25.10", "y": 0.41}, {"x": "26.1", "y": 0.34}, {"x": "26.4", "y": 0.21}, {"x": "26.7", "y": 0.32}, {"x": "26.10", "y": 0.21}]}
+        ], "source": "WizView earnings.json (Nasdaq)"}
       ],
       "coverage": [
-        {"channel": "Yahoo Finance", "region": "US", "when": "10/15", "angle": "로드스터 이벤트 프리뷰 (보증금 $5만)", "views": null},
-        {"channel": "KuCoin", "region": "US", "when": "10/15", "angle": "호버 데모가 10/16 주가에 미칠 영향", "views": null},
-        {"channel": "국내 채널", "region": "KR", "when": "—", "angle": "실적 전 '반응 히스토리' 포맷 없음 (10/16 아침 기준)", "views": null}
+        {"channel": "Yahoo Finance", "region": "US", "when": "10/16", "angle": "로드스터는 실적을 못 바꾸지만 2가지는 달성 (먼스터)", "views": null},
+        {"channel": "Reuters / Investing.com", "region": "US", "when": "10/16", "angle": "SpaceX 추진기로 공중 회전, 2028년까지 안 나온다", "views": null},
+        {"channel": "StockTitan", "region": "US", "when": "10/16", "angle": "실적 주간 캘린더: 테슬라·메타·넷플릭스", "views": null},
+        {"channel": "국내 채널", "region": "KR", "when": "10/16", "angle": "로드스터·테슬라 실적 다룬 투자 채널 0편 (Mossland 집계 기준)", "views": null}
       ]
     },
     {
-      "id": "t5",
-      "rank": 5,
-      "kind": "교육 · 에버그린",
-      "urgency": "상시 (주말 업로드)",
-      "title_trust": "하워드 막스의 '신용의 창'으로 본 2026년 10월 — AI 순환금융 $1.4조 해부도",
-      "title_curious": "채권 수익률 16%짜리 회사가 하루 +5.9% 오른 날, 신용 사이클은 어디쯤 와 있나",
-      "thumb": "신용의 창",
-      "fact": "IMF GFSR(10/13): 2023년 이후 AI 순환금융 14건 = 지분 $3,000억 + 부채 $6,500억 ↔ 미래 매출 약정 $1.4조. CoreWeave 부채 약 $500억, 2026 자본지출 $350~390억, CDS 1,194.5bp(5년 내 부도 확률 약 63% 내재), 그런데 10/15 주가 +5.9%·젠슨 황 '자본비용 내려가는 중'. Gartner: 네오클라우드 80%가 2030년까지 폐업 가능.",
-      "insight": "막스의 '신용의 창은 활짝 열렸다가 쾅 닫힌다'를 숫자로: 창이 열릴 때(2023~25) 들어온 $6,500억 부채가 금리 5%대에서 재조달 체온을 재는 중. 인체 비유 — 수주잔고(식욕)는 $1,040억으로 왕성한데 혈압(부채)과 체온(금리)이 동시에 높은 환자. 한국 반도체 매출의 AI 자본지출 의존이 이 사슬의 끝에 있다는 구조 설명 + '긍정적인 사람이 수익률이 좋다'는 사이클 하단에서의 태도.",
-      "checks": ["CoreWeave 투자등급 확보 시도 결과", "하이퍼스케일러 4사 분기 자본지출 가이던스(10월 말)", "본인 포트폴리오의 'AI 자본지출 의존 매출' 비중 점검"],
-      "emotion": "깊이 — \"뉴스가 아니라 사이클의 위치를 안다\"",
-      "hook": "채널 정체성(가치투자 철학 × 실제 사례)을 각인하는 에버그린. 본 채널 10/15 2편(뉴스형)의 '철학편'으로 플레이리스트화",
-      "diff": "본 채널·박종훈이 뉴스형으로 다룬 'AI 돈 문제'를 IMF 숫자 + 막스 프레임으로 재구성. 주말에도 유효한 포맷.",
-      "angles": ["투자철학·신용 사이클", "AI 부채·신용(CoreWeave)"],
+      "id": "t5", "rank": 5, "kind": "교육 · 에버그린 (연준 체온계 읽는 법)", "urgency": "상시 (FOMC 10/29 전 업로드)",
+      "title_trust": "'회의를 미리 판단하지 않는다' — 10월 인상 확률이 이틀 만에 50%에서 15%로 내려간 과정으로 배우는 FedWatch 읽는 법",
+      "title_curious": "확률 50%는 예보지 진단이 아니다: 워시가 침묵한 날 시장이 먼저 답을 바꾼 이유",
+      "thumb": "50→15%",
+      "fact": "10월 인상 확률(CME FedWatch, 매체 집계): CPI 전 22~24% → 10/14 CPI 직후 약 50% → 10/14 밤 31.6% → 10/15 PPI 후 29.3% → 10/16 마감 약 15%(Yahoo; Euronews/AP는 약 30%). 12월 인상 약 90%. 워시: '회의를 미리 판단하지 않는다', ECB 2회 포함 세계 '동시 긴축… 무임승차 없다', AI 붐이 단기엔 물가를 올림. 10/17부터 블랙아웃. 2026년 인상: 연준 1회(9월), 한은 2회(7·8월), ECB 2회.",
+      "insight": "FedWatch 확률은 선물 가격을 역산한 '시장의 예보'라서 지표 하나에 2배로 뛰고 발언 하나 없이도 반토막 난다 — 체온계가 아니라 일기예보. 환자(경제)의 상태는 CPI 3.7%·근원 2.6%·10년물 5.10%로 거의 안 변했는데 예보만 흔들린 한 주가 교재. 채널 모토 '긍정적인 사람이 수익률이 좋다'와 연결: 예보에 계좌를 맞추지 말고 체온(지표)에 맞춘다. 용어 풀이: 블랙아웃, 동시 긴축, 2차 효과.",
+      "checks": ["10/29 결정 전 확률이 다시 40% 위로 가는 지표가 무엇인지 (10/23 미시간 기대인플레 4.7% 확정치)", "12월 인상 90%가 유지되는지 — 10월 동결이면 '12월 인상' 가격이 먼저 반응", "한은 10/22가 '동시 긴축' 대열에서 빠지는지 (동결 컨센, 유가 $110 변수)"],
+      "emotion": "뉴스마다 흔들리는 피로 → 숫자 읽는 틀 확보 (안정감)",
+      "hook": "에버그린 — FOMC 때마다 재생되는 '검색 유입' 영상. 설명란에 WizView 체온계 링크로 채널 생태계 연결",
+      "diff": "국내는 '인상 공포' 또는 '연준 항복(박종훈)' 양극 프레임, 해외는 당일 확률 숫자만 보도. 확률의 시간 변화 선 차트 + '예보 vs 체온' 구분을 교육용으로 정리한 영상 없음.",
+      "angles": ["연준·워시(동시 긴축 · 인상 확률)"],
       "signals": [
-        {"label": "IMF 집계 AI 순환금융 부채", "value": "$6,500억 (14건)", "source": "Reuters Morning Bid 10/13 (IMF GFSR)"},
-        {"label": "CoreWeave 5년 CDS", "value": "1,194.5bp (사상 최고)", "source": "TradingKey"},
-        {"label": "CoreWeave 10/15 주가", "value": "장중 -9.5% → 마감 +5.9%", "source": "Market Index·ts2.tech"},
-        {"label": "네오클라우드 2030년 폐업 전망", "value": "80%", "source": "Gartner via BNN Bloomberg"}
+        {"label": "10월 인상 확률 변화 (10/14~16)", "value": "50% → 15% (이틀)", "source": "Yahoo Finance · 뉴스핌 · IBTimes"},
+        {"label": "12월 인상 확률", "value": "약 90%", "source": "Euronews/AP"},
+        {"label": "2026년 주요국 인상 횟수", "value": "ECB 2 · 한은 2 · 연준 1", "source": "Euronews/AP · WizView events.json"},
+        {"label": "9월 CPI 헤드라인 / 근원", "value": "3.7% / 2.6%", "source": "Euronews/AP (BLS)"}
       ],
       "charts": [
-        {"type": "line", "title": "CoreWeave 신용부도스왑(CDS) 프리미엄 — 창이 닫히는 속도", "unit": "bp", "points": [
-          {"x": "10/14 장중", "label": "수요일", "y": 600}, {"x": "10/15 새벽", "label": "목요일 초반", "y": 1000}, {"x": "10/15 장중", "label": "사상 최고", "y": 1194.5}
-        ], "source": "Reuters Morning Bid·TradingKey"},
-        {"type": "bar", "title": "AI 인프라 체인 — 10/14 투매 vs 10/15 반응", "unit": "%", "items": [
-          {"label": "CoreWeave 10/14", "value": -15.46}, {"label": "CoreWeave 10/15", "value": 5.9}, {"label": "오라클 10/14", "value": -8.83}, {"label": "엔비디아 10/14", "value": -3.16}, {"label": "엔비디아 10/15", "value": -1.84}, {"label": "마이크론 10/14", "value": -4.1}, {"label": "마이크론 10/15", "value": 1.87}
-        ], "source": "24/7 Wall St·Topstar News 종가"}
+        {"type": "line", "title": "10월 FOMC 인상 확률 — 한 주의 변화", "unit": "%", "points": [
+          {"x": "10/13", "label": "CPI 전", "y": 24}, {"x": "10/14 밤", "label": "CPI 직후", "y": 50}, {"x": "10/15 새벽", "label": "", "y": 31.6}, {"x": "10/15", "label": "PPI 후", "y": 29.3}, {"x": "10/16", "label": "워시 대담 · 마감", "y": 15}
+        ], "source": "CME FedWatch (Yahoo Finance·뉴스핌·IBTimes·Euronews 집계, 시점별 매체 상이)"},
+        {"type": "bar", "title": "2026년 기준금리 인상 횟수 — '동시 긴축'", "unit": "회", "items": [
+          {"label": "ECB", "value": 2}, {"label": "한국은행", "value": 2}, {"label": "연준", "value": 1}
+        ], "source": "Euronews/AP · WizView events.json"}
       ],
       "coverage": [
-        {"channel": "위즈덤투스 (본 채널)", "region": "KR", "when": "10/15", "angle": "뉴스형 — 시장이 진짜 두려워한 것", "views": null},
-        {"channel": "박종훈의 지식한방", "region": "KR", "when": "10/15", "angle": "반도체보다 돈이 문제", "views": null},
-        {"channel": "BNN Bloomberg", "region": "US", "when": "10/15", "angle": "AI debt fears mount (Gartner)", "views": null},
-        {"channel": "Reuters Morning Bid", "region": "US", "when": "10/13", "angle": "IMF GFSR 순환금융 $1.4조", "views": null}
+        {"channel": "박종훈의 지식한방", "region": "KR", "when": "10/14", "angle": "연준 인상 블러핑 · 항복 시 금값 반등", "views": null},
+        {"channel": "CNBC", "region": "US", "when": "10/16", "angle": "워시 신호 보류, 동시 긴축 평가", "views": null},
+        {"channel": "Euronews / AP", "region": "US", "when": "10/16", "angle": "AI 생산성 · 인상 신호 없음 · 10월 30%, 12월 90%", "views": null},
+        {"channel": "Yahoo Finance", "region": "US", "when": "10/16", "angle": "10월 인상 확률 15%로 하락, BofA는 인상 전망 유지", "views": null}
       ]
     }
   ],
   "pick": {
     "id": "t1",
-    "why": "어제 본 채널이 'AI 부채가 진짜 원인'을 이미 다뤘으니 오늘은 그 다음 질문 — '같은 원인인데 왜 한국만 서킷브레이커인가'가 구독자가 바로 묻는 것이고, 국내 7편 중 미국 로테이션 vs 한국 엑소더스를 한 화면에 놓은 영상이 없다. 섹터 막대 1장·지수 막대 1장이면 클리닉 세계관(체온 변화 vs 출혈)으로 설명이 끝나고, 외국인 전환 여부라는 오늘 체크포인트까지 이어진다."
+    "why": "국내 금요일 영상 8편이 전부 뉴욕 마감 전에 올라가 'SK하이닉스 ADR -6.58%·SOX -3.83%'를 월요일 국장과 연결한 영상이 아직 없고, 주말에 올리면 월요일 개장 전 구독자가 가장 먼저 묻는 질문('반등이 이어지나')에 숫자(괴리 7.4%p, 외국인 1.6%)로 답하는 유일한 영상이 된다. 막대 2장(같은 날 반대 체온 · 외국인 10/15 vs 10/16)으로 클리닉 세계관 설명이 끝나고, 체크포인트 3개가 월요일 09:00에 바로 검증된다."
   },
   "pipeline": [
-    {"when": "10/20~21 (금통위 D-1)", "what": "「한국은행 체온계: 3.00%에서 멈추나 — 미국 10년물 5.1%·원/달러 1,340원·외국인 채권 자금의 3각 관계」 t2의 후속. 금통위 결과 후 쇼츠로 갱신"},
-    {"when": "10/23~26", "what": "「실적 전 검진표」 2·3편: GEV(10/28, 8분기 5비트·반응 최대 +14.58%) → LLY(10/29). 10/22 테슬라 실제 반응을 1편 결과로 붙여 시리즈 신뢰도 쌓기"},
-    {"when": "10/26~27 (FOMC D-2)", "what": "「두 번째 인상은 36년 만 — 1994·2004·2022 인상기 체질표」 워시 대담 내용 반영"}
+    {"when": "10/20~21 (금통위 D-1)", "what": "「한국은행 체온계: 3.00%에서 멈추나 — 브렌트 $110·미국 10년물 5.1%·원/달러 1,335원의 3각 관계」 t3의 후속. 결과 후 쇼츠 갱신"},
+    {"when": "10/22 (수) 오전", "what": "「테슬라 실적 결과 쇼츠」 t4 검진표의 '예측 → 결과' 완결 + 메타·넷플릭스 같은 주 'AI 캐펙스로 이익 줄어든 회사' 묶음 반응 비교"},
+    {"when": "10/23~26", "what": "「실적 전 검진표」 2·3편: GEV(10/28, 8분기 5비트·최대 반응 +14.58%) → LLY(10/29, 8분기 6비트·최근 4연속 비트)"},
+    {"when": "10/26~27 (FOMC D-2)", "what": "「두 번째 인상은 36년 만 — 1994·2004·2022 인상기 체질표」 t5 교육편의 실전편"}
   ],
   "sources": [
-    {"title": "Topstar News — 미국증시 다우 556P 급등·나스닥 강보합", "url": "https://www.topstarnews.net/news/articleView.html?idxno=16248513"},
-    {"title": "Investrade — Market Review October 15, 2026", "url": "https://investrade.com/market-review-october-15-2026/"},
-    {"title": "ts2.tech — Dow Jumps 1.1%, Russell 2000 Rises 1.4% as Broad Rotation Beats Tech", "url": "https://ts2.tech/en/dow-jumps-1-1-russell-2000-rises-1-4-as-broad-rotation-beats-tech/"},
-    {"title": "Market Index — ASX 200 Live Friday 16 October (US recap·CoreWeave +5.9%)", "url": "https://www.marketindex.com.au/news/asx-200-live-today-friday-16th-october"},
-    {"title": "Asian Market Sense — Friday open indications, Warsh in Bangkok", "url": "https://asianmarketsense.substack.com/p/asian-market-sense-markets-look-to"},
-    {"title": "중앙이코노미뉴스 — [마감시황] 코스피 7%대 폭락, 외국인 3.6조 매도", "url": "https://www.joongangenews.com/news/articleView.html?idxno=555433"},
-    {"title": "MTN — 주가 폭락에 동시 거래정지 [마감시황]", "url": "https://news.mtn.co.kr/article/2026101515544715273"},
-    {"title": "디지털데일리 — 코스피 5600선 회복, 외국인은 순매도 (10/16 개장)", "url": "https://www.ddaily.co.kr/page/view/2026101609223448141"},
-    {"title": "뉴스핌 — [금/유가] 공급 변수에 엇갈림 (10/16)", "url": "https://www.newspim.com/news/view/20261016000032"},
-    {"title": "IBTimes — PPI much higher than expected, hike odds edged down anyway", "url": "https://ibtimes.com/ppi-was-much-higher-expected-odds-fed-rate-hike-edged-down-anyway-3808612"},
-    {"title": "Seoul Economic Daily — U.S. Rate Path Clouded as Markets Await Warsh's Oct. 16 Remarks", "url": "https://en.sedaily.com/international/2026/10/16/us-rate-path-clouded-as-markets-await-warshs-oct-16-remarks"},
-    {"title": "BNN Bloomberg — CoreWeave shares, bonds slide further as AI debt fears mount", "url": "https://www.bnnbloomberg.ca/investing/2026/10/15/coreweave-shares-bonds-slide-further-as-ai-debt-fears-mount/"},
-    {"title": "TradingKey — CoreWeave rebounds after 9.5% drop, CDS 1,194.5bp", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262219232-coreweave-stock-credit-risk-cds-bond-yield-deutsche-bank-buy-nvidia-jensen-huang-tradingkey"},
-    {"title": "Reuters Morning Bid (10/13) — IMF GFSR AI circular financing", "url": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-chips-off-table-103335546.html"},
-    {"title": "Yahoo Finance — Tesla's Roadster event is on tonight", "url": "https://finance.yahoo.com/markets/stocks/article/teslas-roadster-event-is-on-tonight-heres-what-to-expect-000407218.html"},
-    {"title": "KuCoin — Tesla's Roadster Hover Demo May Impact TSLA Stock on October 16", "url": "https://www.kucoin.com/news/flash/tesla-s-roadster-hover-demo-may-impact-tsla-stock-on-october-16"},
-    {"title": "StockHub — 삼성전자 3분기 잠정실적 (10/8)", "url": "https://www.stockhub.kr/insights/view_1791420339349_rirmz2bfh-samsung-electronics-005930-cy26-q3-preliminary-earnings-20261008"},
-    {"title": "Alpha by Mossland — 나스닥 (위즈덤투스 10/15 영상 포함)", "url": "https://alpha.moss.land/asset/nasdaq"},
-    {"title": "Alpha by Mossland — HBM (삼프로·김작가·박종훈 10/15)", "url": "https://alpha.moss.land/asset/hbm"},
-    {"title": "Alpha by Mossland — 호르무즈", "url": "https://alpha.moss.land/asset/hormuz-strait"},
-    {"title": "WizView 데이터 (market.json·earnings.json·events.json, Yahoo·Nasdaq)", "url": "https://github.com/gong-you-na/market-calendar"}
+    {"title": "Yahoo Finance — Dow, S&P 500, Nasdaq sink as tech sell-off caps volatile week (10/16)", "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html"},
+    {"title": "TheStreet — Stock Market Today Oct. 16, 2026", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-16-2026"},
+    {"title": "TradingKey — US Stocks Close: Nasdaq Drops Over 2%, CoreWeave Plunges Nearly 12%", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"},
+    {"title": "24/7 Wall St — Nasdaq's 2.3% drop was more than four times the Dow's", "url": "https://247wallst.com/cards/the-nasdaq-s-2-3-drop-was-more-than-four-times-the-dow-s-lo-gspc-market-bell-01m53502se09wdrvtj5fkd69w4"},
+    {"title": "헤럴드경제 — 코스피, '외국인 귀환'에 2%대 상승 마감 [투자360]", "url": "https://biz.heraldcorp.com/article/10905365"},
+    {"title": "아시아경제 — 순매수 전환한 외국인…코스피 2% 상승 마감", "url": "https://view.asiae.co.kr/article/2026101616534208471"},
+    {"title": "뉴스핌 — 코스피, 외국인 매도에도 3%대 반등 (장중)", "url": "https://www.newspim.com/news/view/20261016000557"},
+    {"title": "Euronews/AP — Fed's Warsh sees AI boosting productivity but gives no signal on next rate hike", "url": "https://www.euronews.com/2026/10/16/feds-warsh-sees-ai-boosting-productivity-but-gives-no-signal-on-next-rate-hike"},
+    {"title": "CNBC — Fed's Warsh withholds rate signal, praises recent global tightening", "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html"},
+    {"title": "Rigzone — Brent Oil Hits $110 as Supply Risks Mount", "url": "https://www.rigzone.com/news/brent_oil_hits_110_as_supply_risks_mount-16-oct-2026-184870-article"},
+    {"title": "CNBC — Brent oil touches $110 as Iran escalates Hormuz attacks", "url": "https://www.cnbc.com/amp/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html"},
+    {"title": "Yahoo Finance — Tesla Roadster probably won't drive an earnings beat, but the big reveal did achieve 2 things", "url": "https://finance.yahoo.com/markets/stocks/article/tesla-roadster-probably-wont-drive-an-earnings-beat-but-the-big-reveal-did-achieve-2-things-130628792.html"},
+    {"title": "StockTitan — Tesla, Meta and Netflix Lead the Earnings Week of October 19", "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-19-2026"},
+    {"title": "SBS Biz — 코스피 급락하자 반대매매 두달여 만에 최대로 증가 (10/14)", "url": "https://biz.sbs.co.kr/amp/article/20000339950"},
+    {"title": "Alpha by Mossland — 코스피 한국 채널 시각 정리", "url": "https://alpha.moss.land/asset/kospi"},
+    {"title": "Alpha by Mossland — HBM", "url": "https://alpha.moss.land/asset/hbm"},
+    {"title": "Alpha by Mossland — 삼성전자·SK하이닉스", "url": "https://alpha.moss.land/asset/entity-1su7l3g"},
+    {"title": "Alpha by Mossland — 나스닥", "url": "https://alpha.moss.land/asset/nasdaq"},
+    {"title": "WizView (market-calendar) data/market.json · earnings.json · events.json (2026-10-17 02:12 KST)", "url": "https://github.com/gong-you-na/market-calendar"}
   ],
   "unverified": [
-    "유튜브 개별 영상 조회수·좋아요 (접근 차단) · 해외 개인 유튜버(Meet Kevin·Joseph Carlson 등) 당일 영상 · Reddit 화제 (검색 결과에 당일 스레드 없음)",
-    "CoreWeave 10/15 종가 등락률 — Market Index·ts2 +5.9%로 채택. TradingKey 보도 시점 +1.6%, 24/7 Wall St 시간외 +12.06%($69.22)와 불일치",
-    "10월 인상 확률 — IBTimes(동결 70.7% → 인상 29.3%)와 뉴스핌(약 29%) 채택. WizView events.json의 33.8%(10/15)는 시점 차이로 보임",
-    "다우 선물·S&P 선물 아침 수치(SBS Biz 기사에 방향만) · 테슬라 로드스터 공개 결과(09:55 KST 진행 중, 미반영)",
-    "WizView market.json 코스피 6,009(asof 10/14)는 하루 지연 → 10/15 종가 5,554.22는 KRX 보도 기준 사용",
-    "SK하이닉스 3분기 실적 발표일 (공식 공지 미확인) · 코스피 내 반도체 시총 비중 (수치 미확인으로 본문 제외)"
+    "유튜브 개별 영상 조회수·좋아요 (접근 차단) · 해외 개인 유튜버(Meet Kevin·Joseph Carlson 등) 당일 영상 · Reddit 당일 스레드 (검색 결과 없음) · Alpha by Mossland /today·/brief/2026-10-16 페이지 (접근 권한 오류)",
+    "미국 주간 등락 — 나스닥 -4.5%는 단일 출처(Yahoo), S&P500 -1.4%/-1.95%·다우 +0.7%/+1.5%는 같은 페이지 안에서 불일치 → 범위로 표기. 러셀2000 종가 2,721.37(Yahoo) vs 2,719.57(TheStreet) → Yahoo 채택",
+    "외국인·기관·개인 10/16 순매수 — 헤럴드경제(+3,430/-6,834/-4,847억)와 아시아경제(+3,521/-8,130/-4,420억) 불일치 → 헤럴드 채택, 아시아경제 병기",
+    "원/달러 10/16 서울 마감가 기사 미확인 → Yahoo KRW=X 1,335원(WizView) 사용. 닛케이 10/16 마감·이더리움 당일 종가 확인 불가",
+    "10월 인상 확률 — Yahoo Finance 약 15% vs Euronews/AP 약 30%(시점 차로 추정) → 두 값 병기. 엔비디아 10/16 종가 등락률 미확인(TheStreet '잠시 플러스 후 재하락'만)",
+    "팔란티어 -7%는 Yahoo 장중 집계, 24/7 Wall St는 시간외 -8.27%($185.29)로 표기 → '약 -7%'로 기재. 연합뉴스TV '연이틀 800억대 반대매매' 금투협 원자료 미확인(10/13 593.5억만 확인)",
+    "SK하이닉스 3분기 실적 발표일 공식 공지 미확인. 테슬라 로드스터 공개 장소는 Yahoo '맥그리거', 전일 보드 '와코'(인접 지역) — 맥그리거로 통일"
   ]
 }
